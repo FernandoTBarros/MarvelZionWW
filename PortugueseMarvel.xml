@@ -33,7 +33,7 @@
     <value>{0} segundos restando para enviar o /join</value>
   </string>
   <string key="NotEnoughPlayers">
-    <value>Quantidade mínima de heróis não foi atingida, abortando a missão!</value>
+    <value>Quantidade mínima de heróis nãofoi atingida, abortando a missão!</value>
   </string>
   <string key="StartingGameWait">
     <value>A batalha está para começar! Por favor, aguarde enquanto eu distribuo as missões de cada herói/vilão.</value>
