@@ -578,7 +578,7 @@
   </string>
   <string key="CultConvertSerialKiller">
     <value>A Hydra manda {0} para recrutar {1}. Chegando lá {0} descobre que era melhor ter ficado na base. Seu corpo é encontrado aberto na rua, mas com os orgãos revirados. {0} está morto(a)...</value>
-    <value>{0} arromba a porta da casa de {1}. Assim que entra, ouve uma voz sinistra "Você será punido"! {1} aparece de repente com uma pistola que começa a atirar em {0} decorando sua sala com sangue. {0} está morto(a)</value>
+    <value>{0} arromba a porta da casa de {1}. Assim que entra, ouve uma voz sinistra "Você será punido!". {1} aparece de repente com uma pistola que começa a atirar em {0} decorando sua sala com sangue. {0} está morto(a)</value>
   </string>
   <string key="GuardKiller">
     <value>Você tentou proteger a pessoa errada. O Justiceiro te convida para brincar com ele, um tipo de brincadeira que você com certeza não gosta. O tipo de brincadeira que você morre no final...</value>
