@@ -1148,28 +1148,28 @@
     <value>Trombetas ecoam das profundezas do oceano, os soldados de Atlântida emergem do fundo subaquático para investigar a morte de {0}, o Namor. E nenhuma pista foi encontrada além de sua cabeça fincada em seu tridente, com a mensagem "ninguém escapa de minhas punições", certamente um recado dado pelo Justiceiro.</value>
   </string>
   <string key="SeerKilled">
-    <value>A Aldeia acorda para ver o corpo de {0}, a Vidente, morta. No lugar de seu cérebro, uma bola de cristal. O Serial Killer é assustador!</value>
+    <value>Os heróis despertam com uma triste notícia {0}, o Telepata está morto com uma faca enfiada em seu crânio. O Justiceiro é impiedoso!</value>
   </string>
   <string key="SorcererEaten">
-    <value>O som de uivos tristes podem ser ouvidos pela Aldeia. Parece que um erro foi cometido e os Lobos mataram um aliado. A Feiticeira {0} está morta.</value>
+    <value>Os urros de ódio podem ser ouvidos em todas as partes. Parece que um erro foi cometido e os Cavaleiros mataram um aliado.{0} a Feiticeira Escarlate está morta.</value>
   </string>
   <string key="WildChildEaten">
-    <value>NOMNOMNOMNOM! Nada tão doce e macio quanto a carne de uma criança. {0}, a Criança Rebelde morreu, e o que sobrou foi apenas uma pilha de óssos infantis! Que crueldade!</value>
+    <value>MUHAHAHAHA! Nada é tão bom quanto o derramamento de sangue. {0}, o Holocausto morreu, e o que sobrou foi apenas um cadáver jogado nas ruas da cidade!</value>
   </string>
   <string key="SerialKillerKilledCH"> <!--used when CH visits SK-->
-    <value>A Aldeia acordou essa manhã só para encontrar um corpo torturado e morto na praça. {0}, o Inquisidor, visitou a pessoa errada. O Serial Killer utilizou todas as ferramentas de tortura do Inquisidor, ao mesmo tempo.</value>
+    <value>A Cidade acordou essa manhã só para encontrar um corpo enrolado na bandeira americana no meio da cidade. {0}, o Capitão América, visitou a pessoa errada. O Justiceiro utilizou o escudo de vibranium para multilar seu corpo, assim dando fim ao herói patriota.</value>
   </string>
   <string key="CultConvertWolfPublic"> <!--used when Cultists convert the wolves, only if wolves stayed home-->
-    <value>Péssima escolha da Seita ao visitar um Lobo que decidiu ficar em casa durante a noite. {0} está morto, foi convertido em uma bela refeição pros Lobos, que não são muito interessados em movimentos religiosos.</value>
+    <value>Péssima escolha da Hydra ao visitar um Cavaleiro que descansava em seu lar após fazer algumas vítimas. {0} está morto, mais uma vítima dos Cavaleiros, que só se preocupam com a causa do Apocalipse.</value>
   </string>
   <string key="CultConvertKillerPublic"> <!--used when Cultists convert the SK-->
-    <value>Ontem a noite a Seita decidiu visitar a única pessoa mais estranha do que eles, o Serial Killer, e por causa disso, os órgãos de {0} serviram para a criação de uma nova obra de arte.</value>
+    <value>Ontem a noite a Hydra decidiu visitar o pior idealista, o Justiceiro, cansado de ouvir as palavras de {0}, o justiceiro resolve silenciá-lo de uma vez por todas.</value>
   </string>
   <string key="GAGuardedKiller">
-    <value>{0} tentou proteger o Serial Killer ontem a noite. A Aldeia acordou e encontrou apenas as asas de {0} pregadas na parede da igreja.</value>
+    <value>{0} tentou proteger o Justiceiro ontem a noite. A cidade acordou e encontrou apenas as asas ensanguentadas de {0} pregadas na parede da igreja.</value>
   </string>
   <string key="GAGuardedWolf">
-    <value>{0} tentou proteger um Lobo ontem a noite. A Aldeia acordou e apenas encontrou o corpo de {0} e suas penas, ensanguentadas no chão da igreja.</value>
+    <value>{0} tentou proteger um Cavaleiro do Apocalipse ontem a noite. A cidade acordou e apenas encontrou o corpo de {0} multilado com os restos do que um dia foram suas asas, parece que os dias de guarda do Arcanjo acabaram.</value>
   </string>	
 	
 </strings>
