@@ -33,7 +33,7 @@
     <value>{0} segundos restando para enviar o /join</value>
   </string>
   <string key="NotEnoughPlayers">
-    <value>Quantidade mínima de heróis não foi atingida, abortando a missão!</value>
+    <value>Quantidade mínima de heróis não foi atingida. O Tribunal Vivo intercede e cancela a guerra!</value>
   </string>
   <string key="StartingGameWait">
     <value>A batalha está para começar! Por favor, aguarde enquanto eu distribuo as missões de cada herói/vilão.</value>
@@ -306,7 +306,7 @@
     <value >Os Cavaleiros do Apocalipse comemoram a vitória!</value>
   </string>
   <string key="VillageWins" isgif="true" >
-    <value >Os planos do Apocalipse foram frustrados, os heróis venceram!</value>
+    <value >Os planos do Apocalipse fracassaram, os heróis venceram!</value>
   </string>
   <string key="TannerWins" isgif="true" >
     <value >Ah não! Vocês enforcaram o Nitro!  Ele se auto-destrói e com ele o Planeta Terra!</value>
@@ -619,7 +619,7 @@
     <value>Quem você quer matar essa noite?</value>
   </string>
   <string key="LoverDied">
-    <value>{0} dá seu último suspiro olhando no fundo dos olhos de seu amado(a), {1}, que segura seu corpo de joelhos. {1} não aguenta a dor, e, com uma faca, perfura o próprio coração... Eles ficarão juntos, mesmo no mundo dos mortos. {2}</value>
+    <value>{0} dá seu último suspiro com o olhar fixado em {1}, que segura seu corpo de joelhos. {1} ainda sob os efeitos do feitiço da Encantor, com uma faca, perfura o próprio coração... Eles ficarão juntos, mesmo no mundo dos mortos. {2}</value>
   </string>
   <string key="AskDoppelganger">
     <value> Quem você escolherá para se transformar?</value>
@@ -662,7 +662,7 @@
     <value>Você já está alistado para a batalha de {0}</value>
   </string>
   <string key="AddedToWaitList">
-    <value>Você está esperando para o próximo combate {0}. O Capitão América vai te avisar quando precisar de você para a luta!.</value>
+    <value>Você está esperando para o próximo combate em {0}. O Capitão América vai te avisar quando precisar de você para a luta!.</value>
   </string>
   <string key="NotifyNewGame">
     <value>Uma nova batalha está prestes a iniciar em {0}, pegue suas armas e vá a luta!</value>
@@ -973,7 +973,7 @@
   
   <!-- Update 4.0-->
   <string key="RoleInfoMayor">
-    <value>Você é o Odin. Seu voto durante o enforcamento contará duas vezes, uma vez que você se revelou. Você faz parte do time ddos heróis.</value>
+    <value>Você é o Odin. Seu voto durante o enforcamento contará duas vezes, uma vez que você se revelou. Você faz parte do time dos heróis.</value>
   </string>
   <string key="RoleInfoPrince">
     <value>Imperius Rex! Você é Namor, o príncipe de Atlântida! Você está em uma missão secreta, disfarçado. Se tentarem enforcá-lo, será revelada a sua autoridade, e você irá sobreviver. Assim, só poderá ser morto durante a noite, ou pelo Deadpool.</value>
