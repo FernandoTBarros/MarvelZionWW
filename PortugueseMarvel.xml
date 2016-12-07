@@ -520,7 +520,7 @@
     <value>Você é a Encantor. A Encantadora de mentes, você pode escolher dois jogares que serão enfeitiçados para toda eternidade com a ilusão de que são dois amantes. Se um deles morrer, o outro morrerá de tristeza. Depois de escolher os enfeitiçados, você pode voltar ao seu papel como Herói.</value>
   </string>
   <string key="RoleInfoDoppelganger">
-    <value>Você é a Vampira, Com a sua habilidade de absorção de memórias você pode copiar os poderes de qualquer um dos jogadores apenas ao tocá-los. Escolha de de qual personagem você deseja copiar os poderes. Você só poderá usá-los após a morte do personagem escolhido.</value>
+    <value>Você é a Mímica. Com suas habilidades de clonagem você poderá escolher um personagem no qual se transformar. Escolha de qual personagem, após a morte do escolhido você tomará o seu lugar.</value>
   </string>
   <string key="RoleInfoHunter">
     <value>Você é o Gavião Arqueiro! Seu arco e flechas combinados com seus olhos de gavião são mortais! Se você morrer, pode escolher alguém para matar. E se os cavaleiros te visitarem a noite, você não é alguém que aceitaria ir sozinho, mas no escuro, você não consegue escolher quem matar.</value>
@@ -589,19 +589,19 @@
     <value>{0} don't worry about this string for now!</value>
   </string>
   <string key="DGToMason">
-    <value>A Mística {0} agora se tornou um agente da S.H.I.E.L.D, assim como você!</value>
+    <value>A Mímica {0} agora se tornou um agente da S.H.I.E.L.D, assim como você!</value>
   </string>
   <string key="DGTransformToMason">
     <value>{0} morreu, e você agora é um agente da S.H.I.E.L.D.  Os outros agentes (se houver) são: {1}</value>
   </string>
   <string key="DGToCult">
-    <value>A Mística {0} se transformou em um membro da Hydra. Recebam de braços abertos seu novo recruta!</value>
+    <value>A Mímica {0} se transformou em um membro da Hydra. Recebam de braços abertos seu novo recruta!</value>
   </string>
   <string key="DGTransformToCult">
     <value>{0} morreu, aceita que você entrou para a Hydra. Seus novos companheiros (se houver) são: {1}</value>
   </string>
   <string key="DGToWolf">
-    <value>A Mística {0} se tornou um cavaleiro do apocalipse, mais um para a ordem do caos!</value>
+    <value>A Mímica {0} se tornou um cavaleiro do apocalipse, mais um para a ordem do caos!</value>
   </string>
   <string key="DGTransformToWolf">
     <value>{0} morreu, e você se transformou em um cavaleiro do apocalipse, MWHAHAHA!!!  Seu novo bando é: {1}</value>
@@ -625,7 +625,7 @@
     <value>Quem serão os enfeitiçados ? Escolha o segundo a enfeitiçar.</value>
   </string>
   <string key="Hunter">
-    <value>o Deadpool 🎯</value>
+    <value>o Gavião Arqueiro 🎯</value>
   </string>
   <string key="Cupid">
     <value>Encantor 🏹</value>
@@ -706,7 +706,7 @@
     <value>Você é o Motoqueiro Fantasma. Por enquanto você é um herói, mas se você por atacado pelos cavaleiros, seduzido pelo poder do Apocalipse você se tornará um cavaleiro também!.</value>
   </string>
   <string key="AboutTraitor">
-    <value>Você é o Loki Laufeyson! Por enquanto, você é um herói, mas assim que todos os cavaleiros do apocalipse estiverem mortos, você se juntará a causa do Apocalipse se tornando um cavaleiro.  Se o Telepata poderá indentificar você como um cavaleiro ou não</value>
+    <value>Você é o Loki Laufeyson! Por enquanto, você é um herói, mas assim que todos os cavaleiros do apocalipse estiverem mortos, você se juntará a causa do Apocalipse se tornando um cavaleiro. O Telepata poderá indentificar você como um cavaleiro ou não</value>
   </string>
   <string key="AboutGA">
     <value>Você é o Arcanjo, e seu papel é proteger os heróis. Durante a noite, você pode escolher um(a) jogador(a) para proteger.  Porém, se você escolher um cavaleiro, pode acontecer o pior.</value>
