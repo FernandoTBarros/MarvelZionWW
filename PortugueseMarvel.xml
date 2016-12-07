@@ -520,7 +520,7 @@
     <value>Você é a Encantor. A Encantadora de mentes, você pode escolher dois jogares que serão enfeitiçados para toda eternidade com a ilusão de que são dois amantes. Se um deles morrer, o outro morrerá de tristeza. Depois de escolher os enfeitiçados, você pode voltar ao seu papel como Herói.</value>
   </string>
   <string key="RoleInfoDoppelganger">
-    <value>Você é um Doppelgänger. A Lenda diz que seus ancestrais eram metamorfos, e podiam assumir qualquer forma que quisessem! Escolha um jogador, quando ele morrer você assumirá o papel dele no jogo.</value>
+    <value>Você é a Vampira, Com a sua habilidade de absorção de memórias você pode copiar os poderes de qualquer um dos jogadores apenas ao tocá-los. Escolha de de qual personagem você deseja copiar os poderes. Você só poderá usá-los após a morte do personagem escolhido.</value>
   </string>
   <string key="RoleInfoHunter">
     <value>Você é o Gavião Arqueiro! Seu arco e flechas combinados com seus olhos de gavião são mortais! Se você morrer, pode escolher alguém para matar. E se os cavaleiros te visitarem a noite, você não é alguém que aceitaria ir sozinho, mas no escuro, você não consegue escolher quem matar.</value>
@@ -532,7 +532,7 @@
     <value>Você foi enfeitiçado(a) pela Encantor. A memória de {0} nunca deixará seu coração. Seu objetivo é que os dois sobrevivam. Se um de vocês morrer o outro irá até o mundo dos mortos para que ambos continuem juntos.</value>
   </string>
   <string key="HunterLynchedChoice">
-    <value>Os heróis resolveram executar você! É a sua última chance de dar uso para suas amadas pistolas!</value>
+    <value>Os heróis resolveram executar você! É a sua última chance de usar seu arco e flechas!</value>
   </string>
   <string key="HunterNoChoiceLynched">
     <value>{0} tenta alcançar seu arco enquanto o nó aperta, mas seus dedos estão cansados e antes de alcançar suas flechas seu pescoço estala na forca, anunciando sua morte...</value>
@@ -715,7 +715,7 @@
     <value>Você é a Jessica Jones, e joga com os heróis. Durante o dia, você pode escolher uma pessoa para investigar e descobrir seu papel.  No entanto, ao fazer isso, você pode ser desmascarada pelos cavaleiros do apocalipse! (40% de chance)</value>
   </string>
   <string key="AboutGunner">
-    <value>CHIMICHANGAS! Você é o Deadpool.  Você possui 2 balas para ajudar os heróis.  Durante o dia, você pode atirar em um(a) jogador(a). Todo mundo ouvirá os tiros e saberão que você é .</value>
+    <value>Você é o Gavião Arqueiro! Seu arco e flechas combinados com seus olhos de gavião são mortais! Se você morrer, pode escolher alguém para matar. E se os cavaleiros te visitarem a noite, você não é alguém que aceitaria ir sozinho, mas no escuro, você não consegue escolher quem matar.</value>
   </string>
   <string key="AboutTanner">
     <value>Você é o Nitro, o homem explosivo!  Se você for pra forca, você irá se explodir, assim vencendo a partida. Seu egoista!</value>
