@@ -159,7 +159,7 @@
     <value>Você é a Viúva Negra, a espiã mais sedutora e persuasiva da cidade. Durante a noite, você poderá escolher alguém para seduzir, tentar arrancar informações e descobrir se ele(a) é um Agente da Hydra. Porém, se você visitar um Cavaleiro do Apocalipse ou alguém que está sendo atacado por um, você irá morrer. Se os cavaleiros tentarem atacar sua casa você irá sobreviver, já que você não estava lá.</value>
   </string>  
   <string key="RoleInfoTraitor">
-    <value>Você é o Loki Laufeyson! Por enquanto, você é um herói, mas assim que todos os cavaleiros do apocalipse estiverem mortos, você se juntará a causa do Apocalipse se tornando um cavaleiro.  Se o Telepata poderá indentificar você como um cavaleiro ou não.</value>
+    <value>Você é o Loki Laufeyson! Por enquanto, você é um herói, mas assim que todos os cavaleiros do apocalipse estiverem mortos, você se juntará a causa do Apocalipse se tornando um cavaleiro. O Telepata poderá indentificar você como um cavaleiro ou não.</value>
   </string>
   <string key="RoleInfoWolf">
     <value>VOCÊ É UM CAVALEIRO DO APOCALIPSE! Bom para você! Todas as noites você poderá escolher alguém para atacar.</value>
