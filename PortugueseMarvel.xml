@@ -159,10 +159,10 @@
     <value>Você é a Viúva Negra, a espiã mais sedutora e persuasiva da cidade. Durante a noite, você poderá escolher alguém para seduzir, tentar arrancar informações e descobrir se ele(a) é um Agente da Hydra. Porém, se você visitar um Cavaleiro do Apocalipse ou alguém que está sendo atacado por um, você irá morrer. Se os cavaleiros tentarem atacar sua casa você irá sobreviver, já que você não estava lá.</value>
   </string>  
   <string key="RoleInfoTraitor">
-    <value>Traitor! For now, you are a villager, but once all the wolves die, you will become a werewolf.  If the seer looks to you, you may or may not be identified as a wolf.</value>
+    <value>Você é o Loki Laufeyson! Por enquanto, você é um herói, mas assim que todos os cavaleiros do apocalipse estiverem mortos, você se juntará a causa do Apocalipse se tornando um cavaleiro. O Telepata poderá indentificar você como um cavaleiro ou não.</value>
   </string>
   <string key="RoleInfoWolf">
-    <value>YOU ARE A WOLF!! XD (good on ya) Each night you can choose to kill someone.</value>
+    <value>VOCÊ É UM CAVALEIRO DO APOCALIPSE! Bom para você! Todas as noites você poderá escolher alguém para atacar.</value>
   </string>
    <string key="RoleInfoSeer">
     <value>Você é o Telepata, seu papel é guiar os heróis na empreitada contra os Cavaleiros do Apocalipse. Durante a noite, você pode escolher alguém para 'ver', e ter seu papel revelado a você. Se revele com cautela, porque os Cavaleiros estão loucos pra dizimarem você!</value>
@@ -174,10 +174,10 @@
     <value >Você é o Nitro, o homem explosivo!  Se você for pra forca, você irá se explodir, assim vencendo a partida. Seu egoista!</value>
   </string>
   <string key="RoleInfoWildChild" >
-    <value >Você é o Gênesis, o rebelde! Escolha alguém para você se 'afeiçoar' - se ele(a) morrer, seu ódio irá te consumir e você se tornará um Cavaleiro do Apocalipse.</value>
+    <value >Você é o Holocausto, o rebelde! Escolha alguém para você se 'afeiçoar' - se ele(a) morrer, seu ódio irá te consumir e você se tornará um Cavaleiro do Apocalipse.</value>
   </string>
   <string key="RoleInfoBeholder" >
-    <value >Você é o Vigia, você saberá quem é o verdadeiro Telepata (e não a Vampira). Use isso para ajudar seu time, os Heróis!</value>
+    <value >Você é o Vigia, você saberá quem é o verdadeiro Telepata (e não a Mística). Use isso para ajudar seu time, os Heróis!</value>
   </string>
   <string key="RoleInfoApprenticeSeer" >
     <value >Você é a Jean Grey, e joga com os heróis.  Caso o verdadeiro Telepata morra, você tomará sua posição de diretor do Instituto Xavier.</value>
@@ -225,10 +225,10 @@
     <value >Todos acordam e veêm fumaça saindo da Torre Stark...  Está tudo em chamas!!!!  Após apagar o incêndio, os restos de {0} são encontrados, carbonizado em meio aos escombros....</value>
   </string>
   <string key="FoolEaten" >
-    <value >À medida que o sol se levanta sobre a cidade, os aldeões encontram {0}, A Vampira, tentando utilizar o Cérebro, mas seus poderes já haviam se esgotado, ela está morta, suas últimas palavras foram: "NUNCA PENSEI QUE IA SER OTÁRIA, FUI OTÁRIA" !</value>
+    <value >À medida que o sol se levanta sobre a cidade, os Heróis encontram {0}, A Mística, que após uma crise de amnésia assumiu a forma do Professor X e acreditava ser o próprio, mas tudo nao passava de um terrível engano. Segundos antes de morrer ela recobra a memória, suas últimas palavras são: "NUNCA PENSEI QUE IA SER OTÁRIA, FUI OTÁRIA"</value>
   </string>
   <string key="DefaultEaten" >
-    <value>À medida que todos se levantam durante a manhã, sentem um cheiro horrível.  Eles seguem o cheiro para encontrar {0} esquartejado(a) na garagem.  MUAHAHAHAHAHA! {1}</value>
+    <value>À medida que todos se levantam durante a manhã, sentem um cheiro horrível.  Eles seguem o cheiro para encontrar {0} esquartejado(a) MUAHAHAHAHAHA! {1}</value>
   </string>
   <string key="HunterKilledCultist">
     <value>{0} estava na base secreta da Hydra, quando de repente um objeto metálico quebra as vidraças e o gosto de sangue e vibranium sobe pela sua garganta, um membro da Hydra foi morto pelo Capitão América!</value>
@@ -391,7 +391,7 @@
     <value>a Vampira 🃏</value>
   </string>
   <string key="WildChild">
-    <value>O Gênesis 👶</value>
+    <value>O Holocausto 👶</value>
   </string>
   <string key="Beholder">
     <value>o Vigia 👁</value>
@@ -595,19 +595,19 @@
     <value>{0} don't worry about this string for now!</value>
   </string>
   <string key="DGToMason">
-    <value>A Mística {0} agora se tornou um agente da S.H.I.E.L.D, assim como você!</value>
+    <value>A Vampira {0} agora se tornou um agente da S.H.I.E.L.D, assim como você!</value>
   </string>
   <string key="DGTransformToMason">
     <value>{0} morreu, e você agora é um agente da S.H.I.E.L.D.  Os outros agentes (se houver) são: {1}</value>
   </string>
   <string key="DGToCult">
-    <value>A Mística {0} se transformou em um membro da Hydra. Recebam de braços abertos seu novo recruta!</value>
+    <value>A Vampira {0} se tomou os poderes de persuasão de um membro da Hydra. Recebam de braços abertos seu novo recruta!</value>
   </string>
   <string key="DGTransformToCult">
     <value>{0} morreu, aceita que você entrou para a Hydra. Seus novos companheiros (se houver) são: {1}</value>
   </string>
   <string key="DGToWolf">
-    <value>A Mística {0} se tornou um cavaleiro do apocalipse, mais um para a ordem do caos!</value>
+    <value>A Vampira {0} tomou os poderes de um cavaleiro do apocalipse, mais um para a ordem do caos!</value>
   </string>
   <string key="DGTransformToWolf">
     <value>{0} morreu, e você se transformou em um cavaleiro do apocalipse, MWHAHAHA!!!  Seu novo bando é: {1}</value>
@@ -631,7 +631,7 @@
     <value>Quem serão os enfeitiçados ? Escolha o segundo a enfeitiçar.</value>
   </string>
   <string key="Hunter">
-    <value>o Deadpool 🎯</value>
+    <value>o Gavião Arqueiro 🎯</value>
   </string>
   <string key="Cupid">
     <value>Encantor 🏹</value>
@@ -640,13 +640,13 @@
     <value>o Justiceiro 🔪</value>
   </string>
   <string key="Doppelgänger">
-    <value>a Mística 🎭</value>
+    <value>a Vampira 🎭</value>
   </string>
   <string key="CupidChosen">
     <value>Os feitiços de Encantor invadem sua mente! Você está apaixonado por {0}!  Se ele(a) morre, você morre também. No final, se ambos estiverem vivos, vocês vencem.</value>
   </string>
   <string key="NewWCRoleModel">
-    <value>Você se tornou o Gênesis.  Seu modelo exemplar é {0}</value>
+    <value>Você se tornou o Holocausto.  Seu modelo exemplar é {0}</value>
   </string>
   <string key="LoversWin">
     <value>Os amantes venceram! Queriam o que né? O Amor sempre vence!</value>
@@ -712,7 +712,7 @@
     <value>Você é o Motoqueiro Fantasma. Por enquanto você é um herói, mas se você por atacado pelos cavaleiros, seduzido pelo poder do Apocalipse você se tornará um cavaleiro também!.</value>
   </string>
   <string key="AboutTraitor">
-    <value>Você é o Loki Laufeyson! Por enquanto, você é um herói, mas assim que todos os cavaleiros do apocalipse estiverem mortos, você se juntará a causa do Apocalipse se tornando um cavaleiro.  Se o Telepata poderá indentificar você como um cavaleiro ou não</value>
+    <value>Você é o Loki Laufeyson! Por enquanto, você é um herói, mas assim que todos os cavaleiros do apocalipse estiverem mortos, você se juntará a causa do Apocalipse se tornando um cavaleiro. O Telepata poderá indentificar você como um cavaleiro ou não.</value>
   </string>
   <string key="AboutGA">
     <value>Você é o Arcanjo, e seu papel é proteger os heróis. Durante a noite, você pode escolher um(a) jogador(a) para proteger.  Porém, se você escolher um cavaleiro, pode acontecer o pior.</value>
@@ -736,7 +736,7 @@
     <value>A Hydra vaga pela cidade recrutando novos membros para sua causa maligna, e você o Capitão América deve proteger a cidade!  Durante a noite você poderá escolher alguém para interrogar.  Se ele(a) for da Hydra, ele(a) morre.  Caso a Hydra tente te recrutar, o membro mais recente morre.</value>
   </string>
   <string key="AboutWC">
-    <value>Você é o Gênesis! Escolha alguém para ser o seu 'Exemplo' - se ele morrer, revoltado você irá aderir a causa maléfica do Apocalipse tornando-se um de seus Cavaleiros.</value>
+    <value>Você é o Holocausto! Escolha alguém para ser o seu 'Exemplo' - se ele morrer, revoltado você irá aderir a causa maléfica do Apocalipse tornando-se um de seus Cavaleiros.</value>
   </string>
   <string key="AboutAppS">
     <value>Você é a Jean Grey, e joga com os heróis.  Caso o verdadeiro Telepata morra, você tomará sua posição de diretor do Instituto Xavier.</value>
@@ -749,8 +749,7 @@
   </string>
   <string key="AboutDG">
     <value>
-     Você é a Mística! Com seus poderes metamorfos você pode se transformar em qualquer personagem do jogo, escolha um personagem, quando ele morrer você assumirá seu papel.
-    </value>
+     Você é a Vampira! Com sua Habilidade de absorção de memórias vocÊ pode copiar os poderes de qualquer um dos johadores apenas ao tocá-los. Escolha de qual personagem você deseja copiar os poderes. Você só poderá usá-los após a morte do personagem escolhido.</value>
   </string>
   <string key="AboutCupid">
     <value>
@@ -759,7 +758,7 @@
   </string>
   <string key="AboutHunter">
     <value>
-     CHIMICHANGAS! Você é o Deadpool.  Você possui 2 balas para ajudar os heróis.  Durante o dia, você pode atirar em um(a) jogador(a). Todo mundo ouvirá os tiros e saberão quem você é.</value>
+    Você é o Gavião Arqueiro! Seu arco e flechas combinados com seus olhos de gavião são mortais! Se você morrer, pode escolher alguém para matar. E se os cavaleiros te visitarem a noite, você não é alguém que aceitaria ir sozinho, mas no escuro, você não consegue escolher quem matar.</value>
   </string>
   <string key="AboutSK">
     <value>Eles riem da lei. Os ricos que a compram e a distorcem para seus caprichos. Os outros, que não tem nada a perder, que não se importam consigo mesmos ou com as outras pessoas. Todos aqueles que pensam que estão acima da lei, ou fora da lei, ou além dela. Eles sabem que a lei é boa, pois mantem as pessoas boas na linha. Eles todos riem. Eles riem da lei. Mas eles não riem de mim. Eu sou o Justiceiro, e vou fazer a minha justiça..</value>
@@ -992,7 +991,7 @@
     <value>Você é o Apocalipse, a origem do caos espalhado na terra, o chefão. Enquanto vivo, a sua vítima tem 20% de chance de se tornar um de seus cavaleiros. </value>
   </string>
   <string key="RoleInfoWolfCub">
-    <value>Você é o Holocausto, filho do Apocalipse, adorado por todos os cavaleiros. Como os outros cavaleiros, você vai escolher um herói para atacar e matar todas as noites. Se acontecer de você ser morto, a ordem dos Cavaleiros do Apocalipse verá seu corpo no chão, e, ensandecida, vingará sua morte, atacando duas pessoas na noite seguinte. </value>
+    <value>Você é o Gênesis. Adorado por todos os cavaleiros. Como os outros cavaleiros, você vai escolher um herói para atacar e matar todas as noites. Se acontecer de você ser morto, a ordem dos Cavaleiros do Apocalipse verá seu corpo no chão, e, ensandecida, vingará sua morte, atacando duas pessoas na noite seguinte. </value>
   </string>
   <string key="PrinceLynched">
     <value>Os heróis estavam prontos para executar {0}, que grita, "Esperem! Eu sou Namor, príncipe de Atlântida! Como vocês ousam atacar o futuro rei?." Envergonhados, os heróis voltam para seus QG's para re-pensar seus atos.</value>
@@ -1066,7 +1065,7 @@
     </value>
   </string>
   <string key="AboutWolfCub">
-    <value>Você é o Holocausto, filho do Apocalipse, adorado por todos os cavaleiros. Como os outros cavaleiros, você vai escolher um herói para atacar e matar todas as noites. Se acontecer de você ser morto, a ordem dos Cavaleiros do Apocalipse verá seu corpo no chão, e, ensandecida, vingará sua morte, atacando duas pessoas na noite seguinte.</value>
+    <value>Você é o Gênesis. Adorado por todos os cavaleiros. Como os outros cavaleiros, você vai escolher um herói para atacar e matar todas as noites. Se acontecer de você ser morto, a ordem dos Cavaleiros do Apocalipse verá seu corpo no chão, e, ensandecida, vingará sua morte, atacando duas pessoas na noite seguinte.</value>
   </string>
 
  <!-- new strings 06 nov-->
@@ -1078,7 +1077,7 @@
   <string key="DGTransformToWolfCub">
     <!-- 0 - target's name -->
     <!-- 1 - teammates's name -->
-    <value>{0} morreu, e você se transformou no Holocausto, o filho do Apocalipse. Os seus companheiros (se houver) são: {1}.</value>
+    <value>{0} morreu, e você se transformou no Gênesis, o queridinho dos Cavaleiros. Os seus companheiros (se houver) são: {1}.</value>
   </string>
   <string key="VillageTeam">
     <value>Time dos Heróis</value>
@@ -1122,31 +1121,31 @@
   
   <!--New Death Strings 05 Nov-->
   <string key="ApprenticeSeerEaten">
-    <value>A aldeia acorda e encontra o corpo do Aprendiz de Vidente todo ensaguentado, seu mestre sentirá sua falta. {0} morreu!</value>
+    <value>Amanhece na cidade, todos os heróis acordam e encontram os restos do que um dia foi a Jean Grey, o Professor X lamenta sua perda. {0} morreu!</value>
   </string>
   <string key="BlacksmithKilled">
-    <value>Parece que {0}, o Ferreiro, é bem azarado. Cinco espadas foram encontradas atravessadas no seu peito. E diversas armas desapareceram, o Serial Killer fez a festa!</value>
+    <value>Parece que {0}, o Magneto já não faz mais parte da elite dos mutantes. Balas não metálicas foram encontradas perto de seu cadáver. E diversas armas desapareceram, o Justiceiro aplicou sua punição.</value>
   </string>
   <string key="CultistKilled">
     <value>De manhã todos encontram {0} empalado em um candelabro. O Serial Killer não se importa com religião, todos são brinquedinhos para ele! A Seita vai sentir falta de {0}...</value>
   </string>
   <string key="CupidKilled">
-    <value>Os aldeões ficam de coração partido ao encontrar {0}, o Cupido, morto. Estranho o fato de seu coração estar faltando, obviamente obra do Serial Killer.</value>
+    <value>Os dias de encantamento de {0}, a Encantor chegam ao fim. Ela é encontrada morta, com a boca costurada, obviamente obra do Justiceiro.</value>
   </string>
-  <string key="DrunkKilled">
-    <value>{0}, o Bêbado teve o seu fígado retirado cirurgicamente e colocado em uma garrafa de pinga. Obviamente mais uma brincadeira do Serial Killer que deve ter adorado seu novo drink. </value>
+ <string key="DrunkKilled">
+<value>{0}, o Tony Stark, se esforçou para proteger a torre Stark porém suas defesas tecnológicas não foram o suficiente. O reator Ark foi arrancado violentamente de seu peito. O Justiceiro faz mais uma vítima, levando uma garrafa de um bom e velho Whisky para celebrar. </value>
   </string>
   <string key="GuardianAngelKilled">
-    <value>{0} é encontrado com grandes fendas onde antes houveram suas asas. {0}, o Anjo Guardião, está morto, e a noite agora é mais sombria.</value>
+    <value>{0} é encontrado com grandes fendas onde antes houveram suas asas. {0}, o Arcanjo, está morto, e a noite agora é mais sombria.</value>
   </string>
   <string key="GunnerKilled">
-    <value>Na calada da noite vocês ouvem um tiro na casa de {0}, a Atiradora! Seus sonhos são tormentosos depois de encontra-la com um buraco na testa, e a arma embaralhada em suas entranhas, mais uma vítima do Serial Killer.</value>
+    <value>No silêncio da noite, são escutados os sons de uma briga na casa de {0}, os heróis encontram o Deadpool já sem vida! Seus sonhos são tormentosos depois de encontrá-lo decapitado, e a arma embaralhada em suas entranhas, mais uma vítima do Justiceiro.</value>
   </string>
   <string key="MayorKilled">
-    <value>Houve um terrível assassinato! {0}, o Prefeito foi encontrado assado com uma maçã na boca! O Serial Killer finalmente conseguiu vingança pelos anos preso no hospício.</value>
+    <value>Caos em Asgard! {0}, o Odin, é encontrado com seu único olho remanecente arrancado! Parece que nem os asgardianos escapam da terrível vingança do Justiceiro.</value>
   </string>
   <string key="PrinceKilled">
-    <value>O sino toca por toda a Aldeia antes do nascer do sol. Os soldados do Rei estão em todo lugar investigando a morte de {0}, o Príncipe. E nenhuma pista foi encontrada ainda, além do chapéu de bobo da corte na cabeça decepada do Principe, com a assintaura em sangue "Serial Killer" na parede.</value>
+    <value>Trombetas ecoam das profundezas do oceano, os soldados de Atlântida emergem do fundo subaquático para investigar a morte de {0}, o Namor. E nenhuma pista foi encontrada além de sua cabeça fincada em seu tridente, com a mensagem "ninguém escapa de minhas punições", certamente um recado dado pelo Justiceiro.</value>
   </string>
   <string key="SeerKilled">
     <value>A Aldeia acorda para ver o corpo de {0}, a Vidente, morta. No lugar de seu cérebro, uma bola de cristal. O Serial Killer é assustador!</value>
