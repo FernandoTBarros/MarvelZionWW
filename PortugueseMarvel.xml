@@ -662,7 +662,7 @@
     <value>Você já está alistado para a batalha de {0}</value>
   </string>
   <string key="AddedToWaitList">
-    <value>Você está esperando para o próximo combate em {0}. O Capitão América vai te avisar quando precisar de você para a luta!.</value>
+    <value>Você está esperando para o próximo combate {0}. O Capitão América vai te avisar quando precisar de você para a luta!.</value>
   </string>
   <string key="NotifyNewGame">
     <value>Uma nova batalha está prestes a iniciar em {0}, pegue suas armas e vá a luta!</value>
