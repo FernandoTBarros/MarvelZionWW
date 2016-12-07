@@ -279,7 +279,7 @@
     <value >{0} dormiu na casa errada noite passada! Seu corpo, antes sedutor e divertido, foi encontrado pregado cruelmente na porta da igreja...  Que triste :(</value>
   </string>
   <string key="HarlotFuckedVictimPublic" >
-    <value >{0} foi dormir na casa de {1}, pronto(a) para seduzí-lo e coletar algumas informações.  Entretanto, ele(a) encontrou um cavaleiro atacando {1}!  O cavaleiro se vira rapidamente em direção a {0} e....  {0} está morta.</value>
+    <value >{0} foi dormir na casa de {1}, pronto(a) para seduzí-lo e coletar algumas informações.  Entretanto, ele(a) encontrou um cavaleiro atacando {1}!  O cavaleiro se vira rapidamente em direção a {0} e....  {0} está morto(a).</value>
   </string>
   <string key="HarlotVisitNonWolf" >
     <value >Você percebe que {0} não é um cavaleiro, já que vocês fizeram um sexo gostoso e selvagem a noite toda!</value>
@@ -297,7 +297,7 @@
     <value >Parece que {0} não gostou da noite com a Viúva Negra! O Deadpool ficou louco e revidou. {1} está morto(a).</value>
   </string>
   <string key="DefaultShot" >
-    <value >"Hora de botar pra f0der!"  De repente, um tiro é disparado.  Os heróis se viram para ver {0} de pé em cima do corpo de {1}, com a arma ainda apontada para a cabeça e os miolos espalhados.  {2}.</value>
+    <value >"Hora de botar pra f0der!"  De repente, um tiro é disparado.  Os heróis se viram para ver {0} de pé em cima do corpo de {1}, com a arma ainda apontada para a cabeça e os miolos espalhados. {2} está morto(a).</value>
   </string>
   <string key="WolfWins" isgif="true" >
     <value >O Cavaleiro do Apocalipse celebra seu triunfo!</value>
@@ -526,7 +526,7 @@
     <value>Você é a Encantor. A Encantadora de mentes, você pode escolher dois jogares que serão enfeitiçados para toda eternidade com a ilusão de que são dois amantes. Se um deles morrer, o outro morrerá de tristeza. Depois de escolher os enfeitiçados, você pode voltar ao seu papel como Herói.</value>
   </string>
   <string key="RoleInfoDoppelganger">
-    <value>Você é um Doppelgänger. A Lenda diz que seus ancestrais eram metamorfos, e podiam assumir qualquer forma que quisessem! Escolha um jogador, quando ele morrer você assumirá o papel dele no jogo.</value>
+    <value>Você é a Mímica. Com suas habilidades de clonagem você poderá escolher um personagem no qual se transformar. Escolha de qual personagem, após a morte do escolhido você tomará o seu lugar.</value>
   </string>
   <string key="RoleInfoHunter">
     <value>Você é o Gavião Arqueiro! Seu arco e flechas combinados com seus olhos de gavião são mortais! Se você morrer, pode escolher alguém para matar. E se os cavaleiros te visitarem a noite, você não é alguém que aceitaria ir sozinho, mas no escuro, você não consegue escolher quem matar.</value>
@@ -538,7 +538,7 @@
     <value>Você foi enfeitiçado(a) pela Encantor. A memória de {0} nunca deixará seu coração. Seu objetivo é que os dois sobrevivam. Se um de vocês morrer o outro irá até o mundo dos mortos para que ambos continuem juntos.</value>
   </string>
   <string key="HunterLynchedChoice">
-    <value>Os heróis resolveram executar você! É a sua última chance de dar uso para suas amadas pistolas!</value>
+    <value>Os heróis resolveram executar você! É a sua última chance de usar seu arco e flechas!</value>
   </string>
   <string key="HunterNoChoiceLynched">
     <value>{0} tenta alcançar seu arco enquanto o nó aperta, mas seus dedos estão cansados e antes de alcançar suas flechas seu pescoço estala na forca, anunciando sua morte...</value>
@@ -595,19 +595,19 @@
     <value>{0} don't worry about this string for now!</value>
   </string>
   <string key="DGToMason">
-    <value>A Vampira {0} agora se tornou um agente da S.H.I.E.L.D, assim como você!</value>
+    <value>A Mímica {0} agora se tornou um agente da S.H.I.E.L.D, assim como você!</value>
   </string>
   <string key="DGTransformToMason">
     <value>{0} morreu, e você agora é um agente da S.H.I.E.L.D.  Os outros agentes (se houver) são: {1}</value>
   </string>
   <string key="DGToCult">
-    <value>A Vampira {0} se tomou os poderes de persuasão de um membro da Hydra. Recebam de braços abertos seu novo recruta!</value>
+    <value>A Mímica {0} se transformou em um membro da Hydra. Recebam de braços abertos seu novo recruta!</value>
   </string>
   <string key="DGTransformToCult">
     <value>{0} morreu, aceita que você entrou para a Hydra. Seus novos companheiros (se houver) são: {1}</value>
   </string>
   <string key="DGToWolf">
-    <value>A Vampira {0} tomou os poderes de um cavaleiro do apocalipse, mais um para a ordem do caos!</value>
+    <value>A Mímica {0} se tornou um cavaleiro do apocalipse, mais um para a ordem do caos!</value>
   </string>
   <string key="DGTransformToWolf">
     <value>{0} morreu, e você se transformou em um cavaleiro do apocalipse, MWHAHAHA!!!  Seu novo bando é: {1}</value>
@@ -640,13 +640,13 @@
     <value>o Justiceiro 🔪</value>
   </string>
   <string key="Doppelgänger">
-    <value>a Vampira 🎭</value>
+    <value>a Mímica 🎭</value>
   </string>
   <string key="CupidChosen">
     <value>Os feitiços de Encantor invadem sua mente! Você está apaixonado por {0}!  Se ele(a) morre, você morre também. No final, se ambos estiverem vivos, vocês vencem.</value>
   </string>
   <string key="NewWCRoleModel">
-    <value>Você se tornou o Holocausto.  Seu modelo exemplar é {0}</value>
+    <value>Você se tornou o Holocausto. Seu modelo exemplar é {0}</value>
   </string>
   <string key="LoversWin">
     <value>Os amantes venceram! Queriam o que né? O Amor sempre vence!</value>
@@ -712,7 +712,7 @@
     <value>Você é o Motoqueiro Fantasma. Por enquanto você é um herói, mas se você por atacado pelos cavaleiros, seduzido pelo poder do Apocalipse você se tornará um cavaleiro também!.</value>
   </string>
   <string key="AboutTraitor">
-    <value>Você é o Loki Laufeyson! Por enquanto, você é um herói, mas assim que todos os cavaleiros do apocalipse estiverem mortos, você se juntará a causa do Apocalipse se tornando um cavaleiro. O Telepata poderá indentificar você como um cavaleiro ou não.</value>
+    <value>Você é o Loki Laufeyson! Por enquanto você é um herói, mas assim que todos os cavaleiros do apocalipse estiverem mortos, você se juntará a causa do Apocalipse se tornando um cavaleiro. Só Telepata poderá identificar você como um cavaleiro ou não.</value>
   </string>
   <string key="AboutGA">
     <value>Você é o Arcanjo, e seu papel é proteger os heróis. Durante a noite, você pode escolher um(a) jogador(a) para proteger.  Porém, se você escolher um cavaleiro, pode acontecer o pior.</value>
@@ -721,7 +721,7 @@
     <value>Você é a Jessica Jones, e joga com os heróis. Durante o dia, você pode escolher uma pessoa para investigar e descobrir seu papel.  No entanto, ao fazer isso, você pode ser desmascarada pelos cavaleiros do apocalipse! (40% de chance)</value>
   </string>
   <string key="AboutGunner">
-    <value>CHIMICHANGAS! Você é o Deadpool.  Você possui 2 balas para ajudar os heróis.  Durante o dia, você pode atirar em um(a) jogador(a). Todo mundo ouvirá os tiros e saberão que você é .</value>
+    <value>Você é o Gavião Arqueiro! Seu arco e flechas combinados com seus olhos de gavião são mortais! Se você morrer, pode escolher alguém para matar. E se os cavaleiros te visitarem a noite, você não é alguém que aceitaria ir sozinho, mas no escuro, você não consegue escolher quem matar.</value>
   </string>
   <string key="AboutTanner">
     <value>Você é o Nitro, o homem explosivo!  Se você for pra forca, você irá se explodir, assim vencendo a partida. Seu egoista!</value>
