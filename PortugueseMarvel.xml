@@ -225,10 +225,10 @@
     <value >Todos acordam e veêm fumaça saindo da Torre Stark...  Está tudo em chamas!!!!  Após apagar o incêndio, os restos de {0} são encontrados, carbonizado em meio aos escombros....</value>
   </string>
   <string key="FoolEaten" >
-    <value >À medida que o sol se levanta sobre a cidade, os Heróis encontram {0}, A Mística, que após uma crise de amnésia assumiu a forma do Professor X e acreditava ser o próprio, mas tudo nao passava de um terrível engano.</value>
+    <value >À medida que o sol se levanta sobre a cidade, os Heróis encontram {0}, A Mística, que após uma crise de amnésia assumiu a forma do Professor X e acreditava ser o próprio, mas tudo nao passava de um terrível engano. Segundos antes de morrer ela recobra a memória, suas últimas palavras são: "NUNCA PENSEI QUE IA SER OTÁRIA, FUI OTÁRIA"</value>
   </string>
   <string key="DefaultEaten" >
-    <value>À medida que todos se levantam durante a manhã, sentem um cheiro horrível.  Eles seguem o cheiro para encontrar {0} esquartejado(a) na garagem.  MUAHAHAHAHAHA! {1}</value>
+    <value>À medida que todos se levantam durante a manhã, sentem um cheiro horrível.  Eles seguem o cheiro para encontrar {0} esquartejado(a) MUAHAHAHAHAHA! {1}</value>
   </string>
   <string key="HunterKilledCultist">
     <value>{0} estava na base secreta da Hydra, quando de repente um objeto metálico quebra as vidraças e o gosto de sangue e vibranium sobe pela sua garganta, um membro da Hydra foi morto pelo Capitão América!</value>
@@ -1121,31 +1121,31 @@
   
   <!--New Death Strings 05 Nov-->
   <string key="ApprenticeSeerEaten">
-    <value>A aldeia acorda e encontra o corpo do Aprendiz de Vidente todo ensaguentado, seu mestre sentirá sua falta. {0} morreu!</value>
+    <value>Amanhece na cidade, todos os heróis acordam e encontram os restos do que um dia foi a Jean Grey, o Professor X lamenta sua perda. {0} morreu!</value>
   </string>
   <string key="BlacksmithKilled">
-    <value>Parece que {0}, o Ferreiro, é bem azarado. Cinco espadas foram encontradas atravessadas no seu peito. E diversas armas desapareceram, o Serial Killer fez a festa!</value>
+    <value>Parece que {0}, o Magneto já não faz mais parte da elite dos mutantes. Balas não metálicas foram encontradas perto de seu cadáver. E diversas armas desapareceram, o Justiceiro aplicou sua punição.</value>
   </string>
   <string key="CultistKilled">
     <value>De manhã todos encontram {0} empalado em um candelabro. O Serial Killer não se importa com religião, todos são brinquedinhos para ele! A Seita vai sentir falta de {0}...</value>
   </string>
   <string key="CupidKilled">
-    <value>Os aldeões ficam de coração partido ao encontrar {0}, o Cupido, morto. Estranho o fato de seu coração estar faltando, obviamente obra do Serial Killer.</value>
+    <value>Os dias de encantamento de {0}, a Encantor chegam ao fim. Ela é encontrada morta, com a boca costurada, obviamente obra do Justiceiro.</value>
   </string>
-  <string key="DrunkKilled">
-    <value>{0}, o Bêbado teve o seu fígado retirado cirurgicamente e colocado em uma garrafa de pinga. Obviamente mais uma brincadeira do Serial Killer que deve ter adorado seu novo drink. </value>
+ <string key="DrunkKilled">
+<value>{0}, o Tony Stark, se esforçou para proteger a torre Stark porém suas defesas tecnológicas não foram o suficiente. O reator Ark foi arrancado violentamente de seu peito. O Justiceiro faz mais uma vítima, levando uma garrafa de um bom e velho Whisky para celebrar. </value>
   </string>
   <string key="GuardianAngelKilled">
-    <value>{0} é encontrado com grandes fendas onde antes houveram suas asas. {0}, o Anjo Guardião, está morto, e a noite agora é mais sombria.</value>
+    <value>{0} é encontrado com grandes fendas onde antes houveram suas asas. {0}, o Arcanjo, está morto, e a noite agora é mais sombria.</value>
   </string>
   <string key="GunnerKilled">
-    <value>Na calada da noite vocês ouvem um tiro na casa de {0}, a Atiradora! Seus sonhos são tormentosos depois de encontra-la com um buraco na testa, e a arma embaralhada em suas entranhas, mais uma vítima do Serial Killer.</value>
+    <value>No silêncio da noite, são escutados os sons de uma briga na casa de {0}, os heróis encontram o Deadpool já sem vida! Seus sonhos são tormentosos depois de encontrá-lo decapitado, e a arma embaralhada em suas entranhas, mais uma vítima do Justiceiro.</value>
   </string>
   <string key="MayorKilled">
-    <value>Houve um terrível assassinato! {0}, o Prefeito foi encontrado assado com uma maçã na boca! O Serial Killer finalmente conseguiu vingança pelos anos preso no hospício.</value>
+    <value>Caos em Asgard! {0}, o Odin, é encontrado com seu único olho remanecente arrancado! Parece que nem os asgardianos escapam da terrível vingança do Justiceiro.</value>
   </string>
   <string key="PrinceKilled">
-    <value>O sino toca por toda a Aldeia antes do nascer do sol. Os soldados do Rei estão em todo lugar investigando a morte de {0}, o Príncipe. E nenhuma pista foi encontrada ainda, além do chapéu de bobo da corte na cabeça decepada do Principe, com a assintaura em sangue "Serial Killer" na parede.</value>
+    <value>Trombetas ecoam das profundezas do oceano, os soldados de Atlântida emergem do fundo subaquático para investigar a morte de {0}, o Namor. E nenhuma pista foi encontrada além de sua cabeça fincada em seu tridente, com a mensagem "ninguém escapa de minhas punições", certamente um recado dado pelo Justiceiro.</value>
   </string>
   <string key="SeerKilled">
     <value>A Aldeia acorda para ver o corpo de {0}, a Vidente, morta. No lugar de seu cérebro, uma bola de cristal. O Serial Killer é assustador!</value>
