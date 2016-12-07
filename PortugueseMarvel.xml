@@ -273,7 +273,7 @@
     <value >{0} dormiu na casa errada noite passada! Seu corpo, antes sedutor e divertido, foi encontrado pregado cruelmente na porta da igreja...  Que triste :(</value>
   </string>
   <string key="HarlotFuckedVictimPublic" >
-    <value >{0} foi dormir na casa de {1}, pronto(a) para seduzí-lo e coletar algumas informações.  Entretanto, ele(a) encontrou um cavaleiro atacando {1}!  O cavaleiro se vira rapidamente em direção a {0} e....  {0} está morta.</value>
+    <value >{0} foi dormir na casa de {1}, pronto(a) para seduzí-lo e coletar algumas informações.  Entretanto, ele(a) encontrou um cavaleiro atacando {1}!  O cavaleiro se vira rapidamente em direção a {0} e....  {0} está morto(a).</value>
   </string>
   <string key="HarlotVisitNonWolf" >
     <value >Você percebe que {0} não é um cavaleiro, já que vocês fizeram um sexo gostoso e selvagem a noite toda!</value>
@@ -291,7 +291,7 @@
     <value >Parece que {0} não gostou da noite com a Viúva Negra! O Deadpool ficou louco e revidou. {1} está morto(a).</value>
   </string>
   <string key="DefaultShot" >
-    <value >"Hora de botar pra f0der!"  De repente, um tiro é disparado.  Os heróis se viram para ver {0} de pé em cima do corpo de {1}, com a arma ainda apontada para a cabeça e os miolos espalhados.  {2}.</value>
+    <value >"Hora de botar pra f0der!"  De repente, um tiro é disparado.  Os heróis se viram para ver {0} de pé em cima do corpo de {1}, com a arma ainda apontada para a cabeça e os miolos espalhados. {2} está morto(a).</value>
   </string>
   <string key="WolfWins" isgif="true" >
     <value >O Cavaleiro do Apocalipse celebra seu triunfo!</value>
