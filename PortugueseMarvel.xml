@@ -158,6 +158,12 @@
   <string key="RoleInfoHarlot">
     <value>Você é a Viúva Negra, a espiã mais sedutora e persuasiva da cidade. Durante a noite, você poderá escolher alguém para seduzir, tentar arrancar informações e descobrir se ele(a) é um Agente da Hydra. Porém, se você visitar um Cavaleiro do Apocalipse ou alguém que está sendo atacado por um, você irá morrer. Se os cavaleiros tentarem atacar sua casa você irá sobreviver, já que você não estava lá.</value>
   </string>  
+  <string key="RoleInfoTraitor">
+    <value>Traitor! For now, you are a villager, but once all the wolves die, you will become a werewolf.  If the seer looks to you, you may or may not be identified as a wolf.</value>
+  </string>
+  <string key="RoleInfoWolf">
+    <value>YOU ARE A WOLF!! XD (good on ya) Each night you can choose to kill someone.</value>
+  </string>
    <string key="RoleInfoSeer">
     <value>Você é o Telepata, seu papel é guiar os heróis na empreitada contra os Cavaleiros do Apocalipse. Durante a noite, você pode escolher alguém para 'ver', e ter seu papel revelado a você. Se revele com cautela, porque os Cavaleiros estão loucos pra dizimarem você!</value>
   </string>	  
