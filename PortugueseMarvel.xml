@@ -300,7 +300,7 @@
     <value >Parece que {0} não gostou da noite com a Viúva Negra! O Deadpool ficou louco e revidou. {1} está morto(a).</value>
   </string>
   <string key="DefaultShot" >
-    <value >"Hora de botar pra f0der!"  De repente, um tiro é disparado.  Os heróis se viram para ver {0} de pé em cima do corpo de {1}, com a arma ainda apontada para a cabeça e os miolos espalhados. {1} está morto(a).</value>
+    <value >"Hora de botar pra f0der!"  De repente, um tiro é disparado.  Os heróis se viram para ver {0} de pé em cima do corpo de {1}, com a arma ainda apontada para a cabeça e os miolos espalhados. {2}</value>
   </string>
   <string key="WolfWins" isgif="true" >
     <value >O Cavaleiro do Apocalipse celebra seu triunfo!</value>
