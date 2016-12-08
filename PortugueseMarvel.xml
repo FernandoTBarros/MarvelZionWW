@@ -108,7 +108,7 @@
     <value>Você vê que {0} é {1}!</value>
   </string>
   <string key="AskLynch">
-    <value>Quem você gostaria de enforcar?</value>
+    <value>Quem você gostaria de executar?</value>
   </string>
   <string key="AskDetect">
     <value>Quem você gostaria de investigar?</value>
@@ -204,7 +204,7 @@
     <value >Cai a noite.  Todos retornam para suas bases depois de um dia sangrento.  Jogadores: vocês têm {0} segundos para usar suas ações!</value>
   </string>
   <string key="LynchKill" >
-    <value >Os heróis votaram, em meio a dúvidas e suspeitas. {0} está morto(a). {1}</value>
+    <value >Os heróis votaram, em meio a dúvidas e suspeitas. {0} foi executado(a). {1}</value>
   </string>
   <string key="LynchTie" >
     <value >Incapazes de chegar a uma decisão final sobre quem executar, todos voltam para suas casas frustrados...</value>
@@ -464,10 +464,10 @@
   </string>
   <!-- new string May 16 2016-->
   <string key="FleeDisabled">
-    <value>Você tenta fugir mas os rumores de que há Cavaleiros do Apocalipse fizeram com que administradores fechassem as saídas para os Cavaleiros não fugissem! Boa sorte com isso!</value>
+    <value>Você tenta fugir, mas há rumores de que os Cavaleiros do Apocalipse fizeram os administradores fecharem as saídas da cidade para NINGUÉM fugir! Boa sorte com isso!</value>
   </string>
   <string key="IsDead"> <!-- used when gunner shoots a player -->
-    <value>Está morta!</value>
+    <value>está morto(a)!</value>
   </string>
     <!-- MORE STRINGS May 16, 2016 -->
   <string key="AdminAdded">
@@ -999,10 +999,10 @@
     <value>Você tenta ver {0}, mas não consegue entender direito o que ele é. Tudo o que sabe é que ele não é o Telepata nem Cavaleiro do Apocalipse...</value>
   </string>
   <string key="MayorReveal">
-    <value>{0} Com um estrondo vindo dos céus, Odin revela sua autoridade. De agora em diante, os votos de {0} para enforcar alguém serão contados duas vezes.</value>
+    <value>Com um estrondo vindo dos céus, Odin revela sua autoridade. De agora em diante, os votos de {0} para executar alguém serão contados duas vezes!</value>
   </string>
   <string key="AskMayor">
-    <value>Clique em "Revelar" quando estiver pronto para se revelar como o Odin</value>
+    <value>Clique em "Revelar" quando estiver pronto para se revelar como Odin</value>
   </string>
   <string key="Reveal">
     <value>Revelar</value>
@@ -1126,7 +1126,7 @@
     <value>Parece que {0}, o Magneto já não faz mais parte da elite dos mutantes. Balas não metálicas foram encontradas perto de seu cadáver. E diversas armas desapareceram, o Justiceiro aplicou sua punição.</value>
   </string>
   <string key="CultistKilled">
-    <value>De manhã todos encontram {0} empalado em um candelabro. O Serial Killer não se importa com religião, todos são brinquedinhos para ele! A Seita vai sentir falta de {0}...</value>
+    <value>De manhã todos encontram {0} com uma caveira desenhada com sangue na testa. O Justiceiro apoia somente a sua causa, ninguém é impune para ele! A Hydra sentirá a falta de {0}...</value>
   </string>
   <string key="CupidKilled">
     <value>Os dias de encantamento de {0}, a Encantor chegam ao fim. Ela é encontrada morta, com a boca costurada, obviamente obra do Justiceiro.</value>
