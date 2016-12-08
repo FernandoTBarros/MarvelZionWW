@@ -6,7 +6,10 @@
 		Dan (@vergonha), Danilo (@daniloosoo), Eric Romero (@ericromeero), Gabriel Borjoize (@Borjoize), jR750Ac (@jr750ac), Mocha (@MochaKH), Nical(@Nical), Pug (@Capitalista) e Saah (@ayylimao)
 		Team leaders: @ayylimao, @Borjoize
 	   (Última edição: 15/11/2016, by @Faberoso, @nildera, @fklopper, @istella, @Aphelion_bot e @Fernando0)
+    Official Telegram Group / Grupo Oficial Telegram: @MarvelWerewolfBrasil
+    GitHub for issues or suggestions: https://github.com/FernandoTBarros/MarvelZionWW
 -->
+
 <strings>
   <language name="Brazilian (Marvel)" base="Português" variant="Marvel"/>
   <string key="NotInGame">
@@ -45,7 +48,7 @@
     <value>{0}, por favor, mude seu codinome para entrar na batalha.</value>
   </string>
   <string key="PlayerLimitReached">
-    <value>Sinto muito, o número máximo de jogadores foi atingido!</value>
+    <value>Sinto muito, o número máximo de jogadores foi atingido!</value>  
   </string>
   <string key="PlayerJoined">
     <value>{0} está pronto para a batalha. {1} jogadores, {2} mínimo, {3} máximo</value>
