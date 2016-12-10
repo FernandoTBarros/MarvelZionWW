@@ -590,7 +590,7 @@
     <value>Você dormiu na casa de {0} para coletar informações. Mas essa noite só {0} vai se divertir, com você, enquanto ele esfaqueia seu corpo. Você morreu, mas se te serve de consolo, ele pareceu se divertir muito essa noite...</value>
   </string>
   <string key="HarlotFuckKillerPublic">
-    <value>{0} don't worry about this string for now!</value>
+    <value>{0} vai a casa de {1} para coletar informações, mas lá encontra o Justiceiro, que pensa apenas em punir aqueles à quem ele julga merecedores, antes de conseguir fugir ele dispara um tiro certeiro na cabeça de {0} que cai no chão já sem vida!</value>
   </string>
   <string key="DGToMason">
     <value>A Mímica {0} agora se tornou um agente da S.H.I.E.L.D, assim como você!</value>
