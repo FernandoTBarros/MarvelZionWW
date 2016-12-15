@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <!--
-   Translated by / Traduzido por:
+   Translated Originally by / Traduzido Originalmente por:
        Lucas Montuano (@montuano) e Guto Cristino (@guto_xtino)
-   Currently being translated by / Atualmente sendo traduzido por:
-		Dan (@vergonha), Danilo (@daniloosoo), Eric Romero (@ericromeero), Gabriel Borjoize (@Borjoize), jR750Ac (@jr750ac), Mocha (@MochaKH), Nical(@Nical), Pug (@Capitalista) e Saah (@ayylimao)
+       Dan (@vergonha), Danilo (@daniloosoo), Eric Romero (@ericromeero), Gabriel Borjoize (@Borjoize), jR750Ac (@jr750ac), Mocha (@MochaKH), Nical(@Nical), Pug (@Capitalista) e Saah (@ayylimao)
 		Team leaders: @ayylimao, @Borjoize
-	   (Última edição: 15/11/2016, by @Faberoso, @nildera, @fklopper, @istella, @Aphelion_bot e @Fernando0)
+   Mod created in 15/11/2016 by / Mod criado em 15/11/2016 e mantido atualmente por:
+	   @Faberoso, @nildera, @fklopper, @istella, @Aphelion_bot e @Fernando0
     Official Telegram Group / Grupo Oficial Telegram: @MarvelWerewolfBrasil
     GitHub for issues or suggestions: https://github.com/FernandoTBarros/MarvelZionWW
 -->
@@ -81,10 +81,10 @@
     <value>Essa resposta não é válida!</value>
   </string>
   <string key="WolfVotedKill">
-    <value>{0} votou para atacar {1}</value>
+    <value>{0} prefere exterminar {1}</value>
   </string>
   <string key="PlayerVotedLynch">
-    <value>{0} votou para enforcar {1}</value>
+    <value>{0} atacou {1}</value>
   </string>
   <string key="IdleKill">
     <value>{0} não votou por 2 noites seguidas. Forças do bem julgaram isso como um crime terrível e então {0} cai de repente, morto(a).\n{1}</value>
@@ -108,7 +108,7 @@
     <value>Você vê que {0} é {1}!</value>
   </string>
   <string key="AskLynch">
-    <value>Quem você gostaria de executar?</value>
+    <value>Quem você gostaria de atacar?</value>
   </string>
   <string key="AskDetect">
     <value>Quem você gostaria de investigar?</value>
@@ -193,8 +193,8 @@
   </string>
   <string key="LynchTime" >
     <value >
-      A noite se aproxima e os heróis se reúnem para decidir quem executar hoje...
-      Todo mundo tem agora {0} segundos para votar!
+      A hora da batalha se aproxima e os heróis preparam suas armas para o combate...
+      Todo mundo tem agora {0} segundos para atacar!
     </value>
   </string>
   <string key="DayTime" >
