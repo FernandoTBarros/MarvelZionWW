@@ -282,7 +282,7 @@
     <value >Parece que {0} não gostou da noite com a Viúva Negra! O Deadpool ficou louco e revidou. {1} está morto(a).</value>
   </string>
   <string key="DefaultShot" >
-    <value >"Hora de botar pra f0der!"  De repente, um tiro é disparado.  Os heróis se viram para ver {0} de pé em cima do corpo de {1}, com a arma ainda apontada para a cabeça e os miolos espalhados. {2}</value>
+    <value >"Hora de botar pra foder!"  De repente, um tiro é disparado.  Os heróis se viram para ver {0} de pé em cima do corpo de {1}, com a arma ainda apontada para a cabeça e os miolos espalhados. {2}</value>
   </string>
   <string key="WolfWins" isgif="true" >
     <value >O Cavaleiro do Apocalipse celebra seu triunfo!</value>
@@ -560,7 +560,7 @@
     <value>Quem você quer matar essa noite?</value>
   </string>
   <string key="LoverDied">
-    <value>{0} dá seu último suspiro com o olhar fixado em {1}, que segura seu corpo de joelhos. {1} ainda sob os efeitos do feitiço da Encantor, com uma faca, perfura o próprio coração... Eles ficarão juntos, mesmo no mundo dos mortos. {2}</value>
+    <value>{0} dá seu último suspiro com o olhar fixo em {1}, que segura seu corpo de joelhos. {1} ainda sob os efeitos do feitiço da Encantor, com uma faca, perfura o próprio coração... Eles ficarão juntos, mesmo no mundo dos mortos. {2}</value>
   </string>
   <string key="AskDoppelganger">
     <value> Quem você escolherá para se transformar?</value>
@@ -663,7 +663,7 @@
     <value>Você é a Jessica Jones, e joga com os heróis. Durante o dia, você pode escolher uma pessoa para investigar e descobrir seu papel.  No entanto, ao fazer isso, você pode ser desmascarada pelos cavaleiros do apocalipse! (40% de chance)</value>
   </string>
   <string key="AboutGunner">
-    <value>Você é o Gavião Arqueiro! Seu arco e flechas combinados com seus olhos de gavião são mortais! Se você morrer, pode escolher alguém para matar. E se os cavaleiros te visitarem a noite, você não é alguém que aceitaria ir sozinho, mas no escuro, você não consegue escolher quem matar.</value>
+    <value>Você é o Deadpool! Você possui 2 balas para ajudar os heróis. Durante o dia, você pode atirar em alguém. Todo mundo ouvirá os disparos e saberão que você é o mercenário tagarela.</value>
   </string>
   <string key="AboutTanner">
     <value >Você é o Nitro, o homem explosivo!  Se você for atacado pela maioria, você irá se vingar explodindo a tudo e a todos!</value>
