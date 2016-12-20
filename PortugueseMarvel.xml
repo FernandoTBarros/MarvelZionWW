@@ -69,7 +69,7 @@
     <value>{0} atacou {1}</value>
   </string>
   <string key="IdleKill">
-    <value>{0} não votou por 2 noites seguidas. Forças do bem julgaram isso como um crime terrível e então {0} cai de repente, morto(a).\n{1}</value>
+    <value>{0} se deu bem escondendo-se 2 batalhas seguidas, mas na terceira batalha, antes que o Tribunal Vivo o julgasse,  os inimigos o encontraram e mostraram o que se faz com covardes! {0} está morto, {1}</value>
   </string>
   <string key="TraitorTurnWolf">
     <value>Loki!!! Agora você é um Cavaleiro do Apocalipse...</value>
@@ -156,7 +156,7 @@
     <value >Você é um Herói Veterano, sua força é fundamental para ajudar os heróis na batalha contra os Cavaleiros do Apocalipse! Sempre que houver uma batalha você será chamado para atacar junto!</value>
   </string>
   <string key="RoleInfoTanner" >
-    <value >Você é o Nitro, o homem explosivo!  Se você for atacado pela maioria, você irá se vingar explodindo a tudo e a todos, restando sozinho no mundo!</value>
+    <value >Você é o Nitro, o homem explosivo!  Se você for atacado pela maioria, você irá se vingar explodindo a tudo e a todos!</value>
   </string>
   <string key="RoleInfoWildChild" >
     <value >Você é o Holocausto, o rebelde! Escolha alguém para você se 'afeiçoar' - se ele(a) morrer, seu ódio irá te consumir e você se tornará um Cavaleiro do Apocalipse.</value>
@@ -666,7 +666,7 @@
     <value>Você é o Gavião Arqueiro! Seu arco e flechas combinados com seus olhos de gavião são mortais! Se você morrer, pode escolher alguém para matar. E se os cavaleiros te visitarem a noite, você não é alguém que aceitaria ir sozinho, mas no escuro, você não consegue escolher quem matar.</value>
   </string>
   <string key="AboutTanner">
-    <value >Você é o Nitro, o homem explosivo!  Se você for atacado pela maioria, você irá se vingar explodindo a tudo e a todos, restando sozinho no mundo!</value>
+    <value >Você é o Nitro, o homem explosivo!  Se você for atacado pela maioria, você irá se vingar explodindo a tudo e a todos!</value>
   </string>
   <string key="AboutFool">
     <value>he fool is told they are the seer.... when they choose to see someone's role at night, they are told a random role.</value>
