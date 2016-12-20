@@ -67,6 +67,8 @@
   </string>
   <string key="PlayerVotedLynch">
     <value>{0} atacou {1}</value>
+    <value>{0} deu um chute em {1}</value>
+    <value>{0} deu um soco em {1}</value>
   </string>
   <string key="IdleKill">
     <value>{0} se deu bem escondendo-se 2 batalhas seguidas, mas na terceira batalha, antes que o Tribunal Vivo o julgasse,  os inimigos o encontraram e mostraram o que se faz com covardes! {0} está morto, {1}</value>
@@ -90,7 +92,7 @@
     <value>Você vê que {0} é {1}!</value>
   </string>
   <string key="AskLynch">
-    <value>Quem você gostaria de atacar?</value>
+    <value>Quem você gostaria de golpear?</value>
   </string>
   <string key="AskDetect">
     <value>Quem você gostaria de investigar?</value>
@@ -186,7 +188,7 @@
     <value >Cai a noite.  Todos retornam para suas bases depois de um dia sangrento.  Jogadores: vocês têm {0} segundos para usar suas ações!</value>
   </string>
   <string key="LynchKill" >
-    <value >Os heróis lutaram bravamente e, em meio a tiros e porradas, {0} foi aniquilado(a)! {1}</value>
+    <value >Os heróis lutaram bravamente e, em meio a socos e pontapés, {0} foi aniquilado(a)! {1}</value>
   </string>
   <string key="LynchTie" >
     <value >O combate foi feroz entre as forças do bem e do mal, porém ninguém pereceu nessa batalha...</value>
