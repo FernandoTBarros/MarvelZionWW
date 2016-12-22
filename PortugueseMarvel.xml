@@ -946,7 +946,7 @@
   <string key="SpreadDust">
     <value>Você quer erguer a barragem metálica hoje, impedindo os cavaleiros de atacar essa noite?</value>
   </string>
-  <string key="BlacksmithSpreadSilver">
+  <string key="BlacksmithSpreadSilver" isgif="true">
     <value>Enquanto a cidade discute o caos recente, {0} ergue uma barreira de aço e metais ao redor da cidade. Por esta noite a cidade segura, mas os cavaleiros atacam a barreira que logo cederá.</value>
   </string>
   <string key="Mayor">
