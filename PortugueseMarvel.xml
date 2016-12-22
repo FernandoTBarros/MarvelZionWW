@@ -27,7 +27,7 @@
     <value>{0} segundos restando para enviar o /join</value>
   </string>
   <string key="NotEnoughPlayers">
-    <value>Quantidade mínima de heróis não foi atingida. O Tribunal Vivo intercede e cancela a guerra!</value>
+    <value>Quantidade mínima de heróis não foi atingida. O Tribunal Vivo intercede e suspende a guerra!</value>
   </string>
   <string key="StartingGameWait">
     <value>A batalha está para começar! Por favor, aguarde enquanto eu distribuo as missões de cada herói/vilão.</value>
@@ -387,7 +387,7 @@
     <value>Jean Grey 🙇</value>
   </string>
   <string key="Cultist">
-    <value>membro da Hydra 👤</value>
+    <value>um membro da Hydra 👤</value>
   </string>
   <string key="CultistHunter">
     <value>Capitão América 💂</value>
@@ -407,7 +407,7 @@
   </string>
   <!-- New strings 4 MAY 2016-->
   <string key="Mason">
-    <value>agente da S.H.I.E.L.D 👷</value>
+    <value>um agente da S.H.I.E.L.D 👷</value>
   </string>
   <string key="RoleInfoMason">
     <value>Você é um Agente da S.H.I.E.L.D, e participa de uma sociedade secreta que tenta ajudar a Terra. Se houver outros agentes, você saberá quem são. Caso contrário, você será um Herói Veterano.</value>
@@ -947,7 +947,7 @@
     <value>Você quer erguer a barragem metálica hoje, impedindo os cavaleiros de atacar essa noite?</value>
   </string>
   <string key="BlacksmithSpreadSilver">
-    <value>Enquanto o resto da cidade discute sobre o caos recente, {0} ergue uma barreira de aço e metais ao redor da cidade. Por esta noite a cidade está a salvo, mas os cavaleiros enraivecidos atacam a barreira que logo deverá ceder.</value>
+    <value>Enquanto a cidade discute o caos recente, {0} ergue uma barreira de aço e metais ao redor da cidade. Por esta noite a cidade segura, mas os cavaleiros atacam a barreira que logo cederá.</value>
   </string>
   <string key="Mayor">
     <value>Odin 🎖</value>
