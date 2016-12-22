@@ -471,7 +471,7 @@
   </string>
   <!-- new strings june 10 2016 -->
   <string key="RoleInfoCupid">
-    <value>Você é a Encantor. A Encantadora de mentes, você pode escolher dois jogares que serão enfeitiçados para toda eternidade com a ilusão de que são dois amantes. Se um deles morrer, o outro morrerá de tristeza. Depois de escolher os enfeitiçados, você pode voltar ao seu papel como Herói.</value>
+    <value>Você é a Encantor. A Encantadora de mentes, você pode escolher dois jogadores que serão enfeitiçados para toda eternidade com a ilusão de que são dois amantes. Se um deles morrer, o outro morrerá de tristeza. Depois de escolher os enfeitiçados, você pode voltar ao seu papel como Herói.</value>
   </string>
   <string key="RoleInfoDoppelganger">
     <value>Você é a Mímica. Com suas habilidades de clonagem você poderá escolher um personagem no qual se transformar. Escolha de qual personagem, após a morte do escolhido você tomará o seu lugar.</value>
@@ -697,7 +697,7 @@
   </string>
   <string key="AboutCupid">
     <value>
-      Você é a Encantor, A Encantadora de mentes! Você pode escolher dois jogares que serão enfeitiçados para toda eternidade com a ilusão de que são dois amantes. Se um deles morrer, o outro morrerá de tristeza. Depois de escolher os enfeitiçados, você pode voltar ao seu papel como Herói.
+      Você é a Encantor, A Encantadora de mentes! Você pode escolher dois jogadores que serão enfeitiçados para toda eternidade com a ilusão de que são dois amantes. Se um deles morrer, o outro morrerá de tristeza. Depois de escolher os enfeitiçados, você pode voltar ao seu papel como Herói.
     </value>
   </string>
   <string key="AboutHunter">
