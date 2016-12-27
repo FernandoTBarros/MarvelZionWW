@@ -1106,6 +1106,18 @@
     <value>{0} tentou proteger o Justiceiro ontem a noite. A cidade acordou e encontrou apenas as asas ensanguentadas de {0} pregadas na parede da igreja.</value>
   </string>
   <string key="GAGuardedWolf">
-    <value>{0} tentou proteger um Cavaleiro do Apocalipse ontem a noite. A cidade acordou e apenas encontrou o corpo de {0} mutilado com os restos do que um dia foram suas asas, parece que os dias de guarda do Arcanjo acabaram.</value>
-  </string>	
+   <value>{0} tentou proteger um Cavaleiro do Apocalipse ontem a noite. A cidade acordou e apenas encontrou o corpo de {0} mutilado com os restos do que um dia foram suas asas, parece que os dias de guarda do Arcanjo acabaram.</value></string
+<!--DEC 26: 1vs1 finales-->
+<string key="HunterKillsWolfEnd">
+<!--{0} = hunter's name, {1} = wolf's name-->
+<value>Sabendo que {0} era o último sobrevivente, {1} tentou atacar {0},  porém a destreza e habilidades com o arco de {0} se mostram insuperáveis, tudo o que resta é um corpo com um furo na testa, e um homem limpando calmamente o sangue de sua última flecha enquanto sorri, o Gavião Arqueiro garante a paz na cidade esta noite. </value>
+</string>
+<string key="WolfKillsHunterEnd">
+<!--{0} = hunter's name, {1} = wolf's name-->
+<value>O Cavaleiro avista {0} em meio aos escombros da última batalha, {1} vê que {0} já não tem mais flechas, se tornando um alvo fácil. Eliminar o último herói da cidade vai ser prazeroso para {1}, tudo o que sobra são os restos do corpo mutilado de {0}, o Gavião Arqueiro, enforcado com a corda do seu próprio arco.</value>
+</string>
+<string key="CHKillsCultistEnd">
+<!--{0} = last cultist's name, {1} = CH's name -->
+<value>{1} e {0} caminham em direção ao outro. Avistando uma caveira com tentáculos no ombro de {0}, o justo {1} lança seu escudo pela última vez, colocando um fim a causa maléfica da Hydra que contaminava a cidade.</value>
+</string>
 </strings>
