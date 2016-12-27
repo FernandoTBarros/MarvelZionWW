@@ -134,7 +134,7 @@
     <value>Você é a Jéssica Jones, e joga com os heróis. Durante o dia, você pode escolher uma pessoa para investigar e descobrir seu papel.  No entanto, ao fazer isso, você pode ser descoberto pelos cavaleiros!</value>
   </string>
   <string key="RoleInfoDrunk" isgif="true">
-    <value>"Você é o Tony Stark, o baladeiro beberrão! Você tem bafo de cachaça, mas joga com os Heróis. Se os Cavaleiros te atacarem, eles não resistirão à sua festinha e acabarão de ressaca até a próxima noite.</value>
+    <value>Você é o Tony Stark, o baladeiro beberrão! Você tem bafo de cachaça, mas joga com os Heróis. Se os Cavaleiros te atacarem, eles não resistirão à sua festinha e acabarão de ressaca até a próxima noite.</value>
   </string>
   <string key="RoleInfoGuardianAngel">
     <value>Você é o Arcanjo, e seu papel é proteger a cidade. Durante a noite, você pode escolher um(a) jogador(a) para proteger. Porém, se você escolher um Cavaleiro do Apocalipse, pode acontecer o pior...</value>
@@ -182,7 +182,7 @@
     </value>
   </string>
   <string key="DayTime" >
-    <value >Aproxima-se da hora da batalha. Vocês têm agora {0} segundos para planejar seus ataques, estudar suas defesas e manipular o inimigo.</value>
+    <value >Aproxima-se a hora da batalha. Vocês têm agora {0} segundos para planejar seus ataques, estudar suas defesas e manipular o inimigo.</value>
   </string>
   <string key="NightTime" >
     <value >Cai a noite.  Todos retornam para suas bases depois de um dia sangrento.  Jogadores: vocês têm {0} segundos para usar suas ações!</value>
@@ -272,7 +272,7 @@
     <value >Você percebe que {0} não é um cavaleiro, já que vocês fizeram um sexo gostoso e selvagem a noite toda!</value>
   </string>
   <string key="HarlotVisitYou" >
-    <value >No meio da noite uma dama de vestido preto e cabelos ruivos bate a sua porta. Você mal vê o seu rosto mas não resiste sua sensualidade. Durante os momentos quentes ela te faz perguntas e você responde sem pensar, e no meio da noite você escuta o barulho da porta se fechando e nota a ausência da bela dama na cama onde acabara de ter bons momentos de prazer.</value>
+    <value >No meio da noite uma dama de vestido preto e cabelos ruivos bate a sua porta lhe oferecendo um pouco de diversão. Você mal vê o seu rosto mas não resiste sua sensualidade permitindo a sua entrada. Em um piscar de olhos ela te amarra na cadeira e injeta o soro da verdade em suas veias, fazendo você contar os seus segredos mais profundos, após coletar as informações ela lhe agradece por sua cooperação e foge pela janela.</value>
   </string>
   <string key="DetectiveCaught" >
     <value >Você flagrou {0} xeretando por aí! Ela é a Jessica Jones!</value>
@@ -761,7 +761,7 @@
     <value>Você não é um administrador global...</value>
   </string>
   <string key="NotPara">
-    <value>Você não é o Para!</value>
+    <value>Você não é o Fernando!</value>
   </string>
   <string key="Yes">
     <value>Sim</value>
