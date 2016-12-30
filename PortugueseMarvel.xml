@@ -1121,4 +1121,26 @@
   <!--{0} = last cultist's name, {1} = CH's name -->
    <value>{1} e {0} caminham em direção ao outro. Avistando uma caveira com tentáculos no ombro de {0}, o justo {1} lança seu escudo pela última vez, colocando um fim a causa maléfica da Hydra que contaminava a cidade.</value>
   </string>
+  <!--New InlineStats Strings 30/12-->
+  <string key="AchievementsUnlocked">
+   <value>Conquistas realizadas!</value>
+  </string>
+  <string key="GamesWon">
+   <value>Batalhas vencidas</value>
+  </string>
+  <string key="GamesLost">
+   <value>Batalhas perdidas</value>
+  </string>
+  <string key="GamesSurvived">
+   <value>Batalhas sobrevividas</value>
+  </string>
+  <string key="TotalGames">
+   <value>Total de batalhas</value>
+  </string>
+  <string key="TimesKilled">
+   <value>vezes eu prazeirosamente eliminei</value>
+  </string>
+  <string key="TimesKilledBy">
+   <value>vezes eu fui injustamente morto por</value>
+  </string>
 </strings>
