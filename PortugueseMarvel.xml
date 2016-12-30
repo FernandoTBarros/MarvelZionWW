@@ -618,7 +618,7 @@
     <value>Todos na cidade morreram... Ninguém venceu essa batalha... Deixando a Terra livre para o Galactus devorar.</value>
   </string>
   <string key="SKHunterEnd">
-    <value>O sol nasce no horizonte, {0} e {1} são os únicos sobreviventes.  {0} se aproxima silenciosamente e aponta sua arma para a cabeça de {1}, e diz que o jogo está terminado e a justiça foi feita.  {1} por sua vez saca rápidamente uma flecha e enfia na garganta {0}. {0}, enfia sua faca no peito do Gavião Arqueiro, joga suas armas no chão e sua vida se esvai com um sorriso no rosto. {1}. Ambos morreram, o dia acaba e não houve nenhum vencedor para contar história...</value>
+    <value>O sol nasce no horizonte, {0} e {1} são os únicos sobreviventes.  {0} se aproxima silenciosamente e aponta sua arma para a cabeça de {1}, e diz que o jogo está terminado, sua punição foi aplicada.  {1} por sua vez, saca rapidamente uma flecha e enfia na garganta de {0}. {1}, enfia sua faca no peito do Gavião Arqueiro, joga suas armas no chão e sua vida se esvai com um sorriso no rosto. Ambos morreram, o dia acaba e não houve nenhum vencedor para contar história...</value>
   </string>
     <string key="RoleModelChosen">
     <value>Você não decidiu a tempo, então o bot escolheu por você: {0}</value>
