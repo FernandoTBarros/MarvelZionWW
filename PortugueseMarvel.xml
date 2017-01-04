@@ -1133,7 +1133,7 @@
 <value>Tempo para juntar-se a batalha reduzido em {0} segundos!\n{1} restando para o /join</value>
 </string>
 <string key="CantExtend">
-<value>Apenas os administradores podem extender o tempo mais de uma vez!</value>
+<value>Apenas os administradores podem estender o tempo mais de uma vez!</value>
 </string>
 <string key="AllowExtendQ">
 <!--{0} = "Allow" / "Disallow" string-->
