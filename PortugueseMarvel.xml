@@ -1152,4 +1152,26 @@
 <string key="WolvesEatDrunkBlockSecondKill">
 <value>Oh não! Você atacou {0} o Tony Stark! Ele te prendeu com suas armadilhas tecnológicas e você não poderá atacar esta noite! {1}...</value>
 </string>
+	  <!--New InlineStats Strings 30/12-->
+  <string key="AchievementsUnlocked">
+   <value>Conquistas realizadas!</value>
+  </string>
+  <string key="GamesWon">
+   <value>Batalhas vencidas</value>
+  </string>
+  <string key="GamesLose">
+   <value>Batalhas perdidas</value>
+  </string>
+  <string key="GamesSurvived">
+   <value>Batalhas sobrevividas</value>
+  </string>
+  <string key="TotalGames">
+   <value>Total de batalhas</value>
+  </string>
+  <string key="TimesKilled">
+   <value>vezes eu prazerosamente eliminei</value>
+  </string>
+  <string key="TimesKilledBy">
+   <value>vezes eu fui injustamente morto por</value>
+  </string>
 </strings>
