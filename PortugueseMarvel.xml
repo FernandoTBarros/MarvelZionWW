@@ -1121,4 +1121,35 @@
   <!--{0} = last cultist's name, {1} = CH's name -->
    <value>{1} e {0} caminham em direção ao outro. Avistando uma caveira com tentáculos no ombro de {0}, o justo {1} lança seu escudo pela última vez, colocando um fim a causa maléfica da Hydra que contaminava a cidade.</value>
   </string>
+<!-- Extend time -->
+<string key="SecondsAdded">
+<!-- 0 - Seconds added by /extend command -->
+<!-- 1 - Total seconds remaining -->
+<value>Tempo para juntar-se a batalha estendido em {0} segundos!\n{1} restando para o /join</value>
+</string>
+<string key="SecondsRemoved">
+<!-- 0 - Seconds removed by /extend command -->
+<!-- 1 - Total seconds remaining -->
+<value>Tempo para juntar-se a batalha reduzido em {0} segundos!\n{1} restando para o /join</value>
+</string>
+<string key="CantExtend">
+<value>Apenas os administradores podem estender o tempo mais de uma vez!</value>
+</string>
+<string key="AllowExtendQ">
+<!--{0} = "Allow" / "Disallow" string-->
+<value>Permitir jogadores estender o tempo de início?\nAtual: {0} estender\nNota: Admins sempre poderão extender o tempo</value>
+</string>
+<string key="AllowExtendA">
+<!--{0} = "Allow" / "Disallow" string-->
+<value>{0} jogadores estender o tempo de início</value>
+</string>
+<string key="MaxExtendQ">
+<value>Escolha o tempo máximo em segundos que poderão ser adicionados ao tempo de início por um único /extend comando.\nConfiguração padrão: {0}\nAtual:{1}</value>
+</string>
+<string key="MaxExtendA">
+<value>Tempo máximo de estender: {0} segundos</value>
+</string>
+<string key="WolvesEatDrunkBlockSecondKill">
+<value>Oh não! Você atacou {0} o Tony Stark! Ele te prendeu com suas armadilhas tecnológicas e você não poderá atacar esta noite! {1}...</value>
+</string>
 </strings>
