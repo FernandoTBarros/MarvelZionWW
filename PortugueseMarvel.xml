@@ -1159,7 +1159,7 @@
   <string key="GamesWon">
    <value>Batalhas vencidas</value>
   </string>
-  <string key="GamesLose">
+  <string key="GamesLost">
    <value>Batalhas perdidas</value>
   </string>
   <string key="GamesSurvived">
