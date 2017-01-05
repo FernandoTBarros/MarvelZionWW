@@ -1308,47 +1308,47 @@ Talvez você ainda tenha algum resíduo de prata sobrando. Quem sabe? Talvez ele
 <value>{0} Batalha árduamente com seu Bulbasauro, Porém o Dragonite é muito poderoso e lança seu Dragon Breath! o Bulbasaur tenta se esquivar mas é acertado em cheio! Que batalha! o Bulbasaur desmaia e está fora da Liga Pokémon.</value>
 </string>
 <string key="PrinceKilled">
-<value>Trombetas ecoam das profundezas do oceano, os soldados de Atlântida emergem do fundo subaquático para investigar a morte de {0}, o Namor. E nenhuma pista foi encontrada além de sua cabeça fincada em seu tridente, com a mensagem "ninguém escapa de minhas punições", certamente um recado dado pelo Justiceiro.</value>
+<value>A Beleza do Ninetails de {0} parece não encantar os olhos do Dragonite, sem hesitar, o Dragonite usa seu ataque cauda de dragão contra o Ninetails antes que ele pudesse tomar qualquer ação defensiva, o Ninetails desmaia e está fora da liga!.</value>
 </string>
 <string key="SeerKilled">
-<value>Os heróis despertam com uma triste notícia {0}, o Telepata está morto com uma faca enfiada em seu crânio. O Justiceiro é impiedoso!</value>
+<value>O Alakazam de {0} não usou o Foresight rápido o suficiente para prever o Dragon Rage do Dragonite, que o acerta em cheio, sem chances de defesa! O Alakazam desmaia a vitória é do Dragonite!</value>
 </string>
 <string key="SorcererEaten">
-<value>Os urros de ódio podem ser ouvidos em todas as partes. Parece que um erro foi cometido e os Cavaleiros mataram um aliado.{0} a Feiticeira Escarlate está morta.</value>
+<value>Parece que a Equipe Rocket comete um terrível engano atacando um membro disfarçado, antes que pudessem notar o disfarce de {0} e sua Jynx o Wobbufet de Jéssie atinge em cheio o Pokémon aliado deixando-o incapaz de continuar na Liga Pokémon.</value>
 </string>
 <string key="WildChildEaten">
-<value>MUHAHAHAHA! Nada é tão bom quanto o derramamento de sangue. {0}, o Holocausto morreu, e o que sobrou foi apenas um cadáver jogado nas ruas da cidade!</value>
+<value>Em um momento de fúria por ter zombado de seus cabelos, Jéssie ordena que o Seviper ataque o Meowth de {0}, mas não dá conta da força do ataque! o Meowth desmaia e não pode continuar na Liga Pokémon</value>
 </string>
 <string key="SerialKillerKilledCH">
 <!--used when CH visits SK-->
-<value>A Cidade acordou essa manhã só para encontrar um corpo enrolado na bandeira americana no meio da cidade. {0}, o Capitão América, visitou a pessoa errada. O Justiceiro utilizou o escudo de vibranium para multilar seu corpo, assim dando fim ao herói patriota.</value>
+<value>A Fábrica de Clonagem comemóra o resultado da última batalha. {0} e seu Mew desafiaram o Dragonite para uma batalha, porém os esforços de Mew para derrotá-lo foram inúteis, o Mew está fora de batalha e não pode prosseguir na Liga.</value>
 </string>
 <string key="CultConvertWolfPublic">
 <!--used when Cultists convert the wolves, only if wolves stayed home-->
-<value>Péssima escolha da Hydra ao visitar um Cavaleiro que descansava em seu lar após fazer algumas vítimas. {0} está morto, mais uma vítima dos Cavaleiros, que só se preocupam com a causa do Apocalipse.</value>
+<value>A Fábrica de clonagem desafiou um membro da Equipe Rocket para a batalha! Porém após uma árdua luta {0} e um dos Mewtwo clonados não conseguiram superar o Pokémon da Equipe Rocket e está fora da Liga Pokémon.</value>
 </string>
 <string key="CultConvertKillerPublic">
 <!--used when Cultists convert the SK-->
-<value>Ontem a noite a Hydra decidiu visitar o pior idealista, o Justiceiro, cansado de ouvir as palavras de {0}, o justiceiro resolve silenciá-lo(a) de uma vez por todas.</value>
+<value>Ontem a Fábrica de clonagem tentou clonar o Dragonite, porém o Dragonite superou fácilmente {0} e um dos clones do Mewtwo que não podem mais seguir o combate.</value>
 </string>
 <string key="GAGuardedKiller">
-<value>{0} tentou proteger o Justiceiro ontem a noite. A cidade acordou e encontrou apenas as asas ensanguentadas de {0} pregadas na parede da igreja.</value>
+<value>{0} e seu Mr. Mime tentaram usar Barrier para proteger o Dragonite, porém o Dragonite é um Pokémon orgulhoso e se ofendeu com a tentatica atacando o Mr. Mime que desmaia, Mr. Mime está fora de combate e não pode seguir na Liga Pokémon.</value>
 </string>
 <string key="GAGuardedWolf">
-<value>{0} tentou proteger um Cavaleiro do Apocalipse ontem a noite. A cidade acordou e apenas encontrou o corpo de {0} mutilado com os restos do que um dia foram suas asas, parece que os dias de guarda do Arcanjo acabaram.</value>
+<value>{0} manda o Mr. Mime proteger um membro da Equipe Rocket! Que terrível engano! {0} tem seu Mr. Mime roubado pela equipe rocket e devido ao sumiço de seu Pokémon, {0} está desclassificado da Liga Pokémon.</value>
 </string>
 <!--DEC 26: 1vs1 finales-->
 <string key="HunterKillsWolfEnd">
 <!--{0} = hunter's name, {1} = wolf's name-->
-<value>Sabendo que {0} era o último sobrevivente, {1} tentou atacar {0}, porém a destreza e habilidades com o arco de {0} se mostram insuperáveis, tudo o que resta é um corpo com um furo na testa, e um homem limpando calmamente o sangue de sua última flecha enquanto sorri, o Gavião Arqueiro garante a paz na cidade esta noite. </value>
+<value>{0} e {1} se preparam para as finais da Liga Pokémon! {1} ordena que seu Cacnia ataque o Gengar de {0} que esquiva e rápidamente revida com o ataque Shadow Ball! o Pokémon da Equipe Rocket desmaia, Gengar é o campeão da liga Pokémon!</value>
 </string>
 <string key="WolfKillsHunterEnd">
 <!--{0} = hunter's name, {1} = wolf's name-->
-<value>O Cavaleiro avista {0} em meio aos escombros da última batalha, {1} vê que {0} já não tem mais flechas, se tornando um alvo fácil. Eliminar o último herói da cidade vai ser prazeroso para {1}, tudo o que sobra são os restos do corpo mutilado de {0}, o Gavião Arqueiro, enforcado com a corda do seu próprio arco.</value>
+<value>A Equipe Rocket percebe que {0} não passou no Centro Pokémon e seu Gengar está debilitado, {1} envia o Wobbufet para atacar o Gengar de {0} que não consegue evitar o ataque, {1} comemora a vitória sobre o Gengar de {0}! a Equipe Rocket vence a Liga Pokémon!.</value>
 </string>
 <string key="CHKillsCultistEnd">
 <!--{0} = last cultist's name, {1} = CH's name -->
-<value>{1} e {0} caminham em direção ao outro. Avistando uma caveira com tentáculos no ombro de {0}, o justo {1} lança seu escudo pela última vez, colocando um fim a causa maléfica da Hydra que contaminava a cidade.</value>
+<value>{1} e {0} se preparam para as finais! Percebendo que {0} possui um clone do Mewto, {1} ordena que seu Mew ataque o Pokémon rival, que não é páreo para os ataques do poderoso Pokémon, {1} e Mew vencem a Liga Pokémon! E os dias de Clonagem dos membros da Fábrica chegam ao fim!.</value>
 </string>
 <!-- Extend time -->
 <string key="SecondsAdded">
