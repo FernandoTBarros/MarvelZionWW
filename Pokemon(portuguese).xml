@@ -1286,4 +1286,121 @@ Talvez você ainda tenha algum resíduo de prata sobrando. Quem sabe? Talvez ele
 	<value >A Equipe Rocket encontrou {0}. Equipe Rocket enviou Moltres! Moltres usou Heat Wave. O Kadabra 🙇 de {0} não pode mais batalhar.</value>
     <value >A Equipe Rocket encontrou {0}. Equipe Rocket enviou Articuno, Zapdos e Moltres!!! As três aves lendárias usaram Ancient Power. O Kadabra 🙇 de {0} não pode mais batalhar.</value>
    </string>
+<string key="BlacksmithKilled">
+<value>Parece que {0}, o Magneto já não faz mais parte da elite dos mutantes. Balas não metálicas foram encontradas perto de seu cadáver. E diversas armas desapareceram, o Justiceiro aplicou sua punição.</value>
+</string>
+<string key="CultistKilled">
+<value>Os dias de clonagem do Mewtwo de {0} chegaram ao fim! O Poderoso Dragonite solta sua fúria do dragão, o Mewtwo desmaia, todos sentirão falta do Mewtwo de {0} na fábrica de clonagem...</value>
+</string>
+<string key="CupidKilled">
+<value>O Haunter de {0} foi atacado pelo Dragonite e já não pode mais usar seu Destiny Bound, Haunter está desclassificado da liga Pokémon.</value>
+</string>
+<string key="DrunkKilled">
+<value>Parece que o Sleeping Powder do Butterfree de {0} não foi suficiente para parar o Dragonite, usando seu Hyper Beam ele ataca diretamente o Butterfree que já não pode mais batalhar, Butterfree está fora da liga! </value>
+</string>
+<string key="GuardianAngelKilled">
+<value>o Mr. Mime de {0} tenta se defender usando Barrier! Porém não é o bastante para parar o poderoso arremesso císmico do Dragonite. o Mr. Mime de {0} é atirado violentamente contra o chão, e quando a poeira baixa podemos vê-lo desmaiado.</value>
+</string>
+<string key="GunnerKilled">
+<value>Enquanto o Snorlax de {0} descansava debaixo de uma árvore, eis que é visto o Dragonite desafiando-o para uma batalha, antes que o Snorlax pudesse usar seu Hyper Beam o Dragonite usa suas garras de dragão, o Snorlax desmaia e não pode continuar na liga Pokemón.</value>
+</string>
+<string key="MayorKilled">
+<value>{0} Batalha árduamente com seu Bulbasauro, Porém o Dragonite é muito poderoso e lança seu Dragon Breath! o Bulbasaur tenta se esquivar mas é acertado em cheio! Que batalha! o Bulbasaur desmaia e está fora da Liga Pokémon.</value>
+</string>
+<string key="PrinceKilled">
+<value>Trombetas ecoam das profundezas do oceano, os soldados de Atlântida emergem do fundo subaquático para investigar a morte de {0}, o Namor. E nenhuma pista foi encontrada além de sua cabeça fincada em seu tridente, com a mensagem "ninguém escapa de minhas punições", certamente um recado dado pelo Justiceiro.</value>
+</string>
+<string key="SeerKilled">
+<value>Os heróis despertam com uma triste notícia {0}, o Telepata está morto com uma faca enfiada em seu crânio. O Justiceiro é impiedoso!</value>
+</string>
+<string key="SorcererEaten">
+<value>Os urros de ódio podem ser ouvidos em todas as partes. Parece que um erro foi cometido e os Cavaleiros mataram um aliado.{0} a Feiticeira Escarlate está morta.</value>
+</string>
+<string key="WildChildEaten">
+<value>MUHAHAHAHA! Nada é tão bom quanto o derramamento de sangue. {0}, o Holocausto morreu, e o que sobrou foi apenas um cadáver jogado nas ruas da cidade!</value>
+</string>
+<string key="SerialKillerKilledCH">
+<!--used when CH visits SK-->
+<value>A Cidade acordou essa manhã só para encontrar um corpo enrolado na bandeira americana no meio da cidade. {0}, o Capitão América, visitou a pessoa errada. O Justiceiro utilizou o escudo de vibranium para multilar seu corpo, assim dando fim ao herói patriota.</value>
+</string>
+<string key="CultConvertWolfPublic">
+<!--used when Cultists convert the wolves, only if wolves stayed home-->
+<value>Péssima escolha da Hydra ao visitar um Cavaleiro que descansava em seu lar após fazer algumas vítimas. {0} está morto, mais uma vítima dos Cavaleiros, que só se preocupam com a causa do Apocalipse.</value>
+</string>
+<string key="CultConvertKillerPublic">
+<!--used when Cultists convert the SK-->
+<value>Ontem a noite a Hydra decidiu visitar o pior idealista, o Justiceiro, cansado de ouvir as palavras de {0}, o justiceiro resolve silenciá-lo(a) de uma vez por todas.</value>
+</string>
+<string key="GAGuardedKiller">
+<value>{0} tentou proteger o Justiceiro ontem a noite. A cidade acordou e encontrou apenas as asas ensanguentadas de {0} pregadas na parede da igreja.</value>
+</string>
+<string key="GAGuardedWolf">
+<value>{0} tentou proteger um Cavaleiro do Apocalipse ontem a noite. A cidade acordou e apenas encontrou o corpo de {0} mutilado com os restos do que um dia foram suas asas, parece que os dias de guarda do Arcanjo acabaram.</value>
+</string>
+<!--DEC 26: 1vs1 finales-->
+<string key="HunterKillsWolfEnd">
+<!--{0} = hunter's name, {1} = wolf's name-->
+<value>Sabendo que {0} era o último sobrevivente, {1} tentou atacar {0}, porém a destreza e habilidades com o arco de {0} se mostram insuperáveis, tudo o que resta é um corpo com um furo na testa, e um homem limpando calmamente o sangue de sua última flecha enquanto sorri, o Gavião Arqueiro garante a paz na cidade esta noite. </value>
+</string>
+<string key="WolfKillsHunterEnd">
+<!--{0} = hunter's name, {1} = wolf's name-->
+<value>O Cavaleiro avista {0} em meio aos escombros da última batalha, {1} vê que {0} já não tem mais flechas, se tornando um alvo fácil. Eliminar o último herói da cidade vai ser prazeroso para {1}, tudo o que sobra são os restos do corpo mutilado de {0}, o Gavião Arqueiro, enforcado com a corda do seu próprio arco.</value>
+</string>
+<string key="CHKillsCultistEnd">
+<!--{0} = last cultist's name, {1} = CH's name -->
+<value>{1} e {0} caminham em direção ao outro. Avistando uma caveira com tentáculos no ombro de {0}, o justo {1} lança seu escudo pela última vez, colocando um fim a causa maléfica da Hydra que contaminava a cidade.</value>
+</string>
+<!-- Extend time -->
+<string key="SecondsAdded">
+<!-- 0 - Seconds added by /extend command -->
+<!-- 1 - Total seconds remaining -->
+<value>Tempo para juntar-se a liga estendido em {0} segundos!\n{1} restando para o /join</value>
+</string>
+<string key="SecondsRemoved">
+<!-- 0 - Seconds removed by /extend command -->
+<!-- 1 - Total seconds remaining -->
+<value>Tempo para juntar-se a liga reduzido em {0} segundos!\n{1} restando para o /join</value>
+</string>
+<string key="CantExtend">
+<value>Apenas os administradores podem estender o tempo mais de uma vez!</value>
+</string>
+<string key="AllowExtendQ">
+<!--{0} = "Allow" / "Disallow" string-->
+<value>Permitir jogadores estender o tempo de início?\nAtual: {0} estender\nNota: Admins sempre poderão extender o tempo</value>
+</string>
+<string key="AllowExtendA">
+<!--{0} = "Allow" / "Disallow" string-->
+<value>{0} jogadores estender o tempo de início</value>
+</string>
+<string key="MaxExtendQ">
+<value>Escolha o tempo máximo em segundos que poderão ser adicionados ao tempo de início por um único /extend comando.\nConfiguração padrão: {0}\nAtual:{1}</value>
+</string>
+<string key="MaxExtendA">
+<value>Tempo máximo de estender: {0} segundos</value>
+</string>
+<string key="WolvesEatDrunkBlockSecondKill">
+<value>Oh não! Você atacou {0} o Tony Stark! Ele te prendeu com suas armadilhas tecnológicas e você não poderá atacar esta noite! {1}...</value>
+</string>
+<!--New InlineStats Strings 30/12-->
+<string key="AchievementsUnlocked">
+<value>Conquistas realizadas!</value>
+</string>
+<string key="GamesWon">
+<value>Batalhas vencidas</value>
+</string>
+<string key="GamesLost">
+<value>Batalhas perdidas</value>
+</string>
+<string key="GamesSurvived">
+<value>Batalhas sobrevividas</value>
+</string>
+<string key="TotalGames">
+<value>Total de batalhas</value>
+</string>
+<string key="TimesKilled">
+<value>vezes eu prazerosamente eliminei</value>
+</string>
+<string key="TimesKilledBy">
+<value>vezes eu fui injustamente morto por</value>
+</string>
 </strings>
