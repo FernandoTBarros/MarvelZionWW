@@ -1103,7 +1103,7 @@
     <value>Ontem a noite a Hydra decidiu visitar o pior idealista, o Justiceiro, cansado de ouvir as palavras de {0}, o justiceiro resolve silenciá-lo(a) de uma vez por todas.</value>
   </string>
   <string key="GAGuardedKiller">
-    <value>{0} tentou proteger o Justiceiro ontem a noite. A cidade acordou e encontrou apenas as asas ensanguentadas de {0} pregadas na parede da igreja.</value>
+    <value>{0} tentou proteger o Justiceiro ontem a noite. A cidade acordou e encontrou apenas as asas ensanguentadas de {0} pregadas na parede de seu quartel general.</value>
   </string>
   <string key="GAGuardedWolf">
    <value>{0} tentou proteger um Cavaleiro do Apocalipse ontem a noite. A cidade acordou e apenas encontrou o corpo de {0} mutilado com os restos do que um dia foram suas asas, parece que os dias de guarda do Arcanjo acabaram.</value>
