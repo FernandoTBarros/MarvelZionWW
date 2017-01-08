@@ -161,7 +161,7 @@
     <value >Você é o Nitro, o homem explosivo!  Se você for atacado pela maioria, você irá se vingar explodindo a tudo e a todos!</value>
   </string>
   <string key="RoleInfoWildChild" >
-    <value >Você é o Holocausto, o rebelde! Escolha alguém para você se 'afeiçoar' - se ele(a) morrer, seu ódio irá te consumir e você se tornará um Cavaleiro do Apocalipse.</value>
+    <value >Você é o Bruce Banner! Escolha alguém para você se 'afeiçoar' - se ele(a) morrer, seu ódio irá te consumir e você se tornará o incrível Hulk, sabido da sua vulnerabilidade psicológica enquanto na pele do Golias Esmeralda, o Apocalipse o seduzirá e você será um de seus cavaleiros!.</value>
   </string>
   <string key="RoleInfoBeholder" >
     <value >Você é o Vigia, você saberá quem é o verdadeiro Telepata (e não a Mística). Use isso para ajudar seu time, os Heróis!</value>
@@ -215,7 +215,7 @@
     <value >À medida que o sol se levanta sobre a cidade, os Heróis encontram {0}, A Mística, que após uma crise de amnésia assumiu a forma do Professor X e acreditava ser o próprio, mas tudo nao passava de um terrível engano. Segundos antes de morrer ela recobrara a memória, suas últimas palavras foram: "NUNCA PENSEI QUE IA SER OTÁRIA, FUI OTÁRIA"</value>
   </string>
   <string key="DefaultEaten" >
-    <value>Enquanto os heróis se preparam para a próxima batalha, recebem a triste notícia de que {0} foi uma vítima dos Cavaleiros do Apocalipse. "AH NÃO! VAMOS NOS VINGAR!" {1}</value>
+    <value>Enquanto os heróis se preparam para a próxima batalha, recebem a triste notícia de que {0} foi uma vítima dos Cavaleiros do Apocalipse. "TUM! SOC! POW!" {1}</value>
   </string>
   <string key="HunterKilledCultist">
     <value>{0} estava na base secreta da Hydra, quando de repente um objeto metálico quebra as vidraças e o gosto de sangue e vibranium sobe pela sua garganta, um membro da Hydra foi morto pelo Capitão América!</value>
@@ -335,10 +335,10 @@
     <value>Você invade a casa de {0} mas não há nenhum sinal da Hydra.  Ele(a) não faz parte da Hydra... Ainda...</value>
   </string>
   <string key="WildChildToWolves">
-    <value>O grande exemplo de vida de {0} acabou de morrer! Em seu ataque de fúria, ele(a) se tornou um Cavaleiro do Apocalipse!</value>
+    <value>O grande exemplo de vida de {0} acabou de morrer! Em seu ataque de fúria, ele(a) se tornou o incrível Hulk, o Apocalipse se aproveita do momento de vulnerabilidade do herói e o seduz, o Hulk agora é um Cavaleiro do Apocalipse </value>
   </string>
   <string key="WildChildTransform">
-    <value>{0} foi morto(a)! Num ataque de fúria, você se torna um Cavaleiro do Apocalipse! Seus novos companheiros são: {1}</value>
+    <value>{0} foi morto(a)! Num ataque de fúria, você se torna o incrível Hulk! Porém a voz do Apocalipse ecoa em sua mente, o convidando para se juntar a sua causa maligna, você aceita e agora é um de seus Cavaleiros! Seus novos companheiros são: {1}</value>
   </string>
   <!-- Villager, Drunk, Harlot, Seer, Traitor, GuardianAngel, Detective, Wolf, Cursed, Gunner, Tanner, Fool, WildChild, Beholder, ApprenticeSeer, Cultist, CultistHunter-->
   <string key="Villager">
@@ -378,7 +378,7 @@
     <value>Mística 🃏</value>
   </string>
   <string key="WildChild">
-    <value>Holocausto 👶</value>
+    <value>Bruce Banner 👶</value>
   </string>
   <string key="Beholder">
     <value>Vigia 👁</value>
@@ -590,7 +590,7 @@
     <value>Você foi enfeitiçado(a) pela Encantor. A memória de {0} nunca deixará seu coração. Seu objetivo é que os dois sobrevivam. Se um de vocês morrer o outro irá até o mundo dos mortos para que ambos continuem juntos.</value>
   </string>
   <string key="NewWCRoleModel">
-    <value>Você se tornou o Holocausto. Seu modelo exemplar é {0}</value>
+    <value>Você se tornou o Bruce Banner. Seu modelo exemplar é {0}</value>
   </string>
   <string key="LoversWin">
     <value>Os amantes venceram! Queriam o que né? O Amor sempre vence!</value>
@@ -680,7 +680,7 @@
     <value>A Hydra vaga pela cidade recrutando novos membros para sua causa maligna, e você o Capitão América deve proteger a cidade!  Durante a noite você poderá escolher alguém para interrogar.  Se ele(a) for da Hydra, ele(a) morre.  Caso a Hydra tente te recrutar, o membro mais recente morre.</value>
   </string>
   <string key="AboutWC">
-    <value>Você é o Holocausto! Escolha alguém para ser o seu 'Exemplo' - se ele morrer, revoltado você irá aderir a causa maléfica do Apocalipse tornando-se um de seus Cavaleiros.</value>
+    <value>Você é o Bruce Banner! Escolha alguém para ser o seu 'Exemplo' - se ele morrer, revoltado você irá fácilmente seduzido pela causa do Apocalipse se tornando um de seus Cavaleiros.</value>
   </string>
   <string key="AboutAppS">
     <value>Você é a Jean Grey, e joga com os heróis.  Caso o verdadeiro Telepata morra, você tomará sua posição de diretor do Instituto Xavier.</value>
@@ -1091,7 +1091,7 @@
     <value>Os urros de ódio podem ser ouvidos em todas as partes. Parece que um erro foi cometido e os Cavaleiros mataram um aliado.{0} a Feiticeira Escarlate está morta.</value>
   </string>
   <string key="WildChildEaten">
-    <value>MUHAHAHAHA! Nada é tão bom quanto o derramamento de sangue. {0}, o Holocausto morreu, e o que sobrou foi apenas um cadáver jogado nas ruas da cidade!</value>
+    <value>MUHAHAHAHA! Nada é tão bom quanto o derramamento de sangue. {0}, o Bruce Banner morreu, e o que sobrou foi apenas um cadáver jogado nas ruas da cidade!</value>
   </string>
   <string key="SerialKillerKilledCH"> <!--used when CH visits SK-->
     <value>A Cidade acordou essa manhã só para encontrar um corpo enrolado na bandeira americana no meio da cidade. {0}, o Capitão América, visitou a pessoa errada. O Justiceiro utilizou o escudo de vibranium para multilar seu corpo, assim dando fim ao herói patriota.</value>
