@@ -137,7 +137,7 @@
     <value>Você é o Tony Stark, o baladeiro beberrão! Você tem bafo de cachaça, mas joga com os Heróis. Se os Cavaleiros te atacarem, eles não resistirão à sua festinha e acabarão de ressaca até a próxima noite.</value>
   </string>
   <string key="RoleInfoGuardianAngel">
-    <value>Você é o Arcanjo, e seu papel é proteger a cidade. Durante a noite, você pode escolher um(a) jogador(a) para proteger. Porém, se você escolher um Cavaleiro do Apocalipse, pode acontecer o pior...</value>
+    <value>"Com grandes poderes, vem grandes responsabilidades!" Você é o Homem-Aranha, responsável pela proteção da cidade. Durante a noite, você pode escolher um(a) jogador(a) para proteger usando seu escudo de teias. Porém, se você escolher um Cavaleiro do Apocalipse, pode acontecer o pior...</value>
   </string>
   <string key="RoleInfoGunner">
     <value>CHIMICHANGAS! Você é o Deadpool!  Você possui 2 balas para ajudar os heróis.  Durante o dia, você pode atirar em alguém. Todo mundo ouvirá os disparos e saberão que você é o mercenário tagarela.</value>
@@ -200,7 +200,7 @@
     <value >Os heróis se reúnem durante a manhã, mas ninguém consegue achar {0} entre eles. Eles correm para seu apartamento e encontram somente um par de luvas velhas manchadas de sangue. OH NÃO, JESSICA JONES já ERA!</value>
   </string>
   <string key="GuardianEaten" >
-    <value >A manhã chega, os heróis avistam penas e sangue espalhados pelo chão, as asas de {0}, o Arcanjo, foram arrancadas e ele está morto.</value>
+    <value >A manhã chega, os heróis avistam teias e sangue espalhados pelo chão, os lançadores de teia de {0}, o Homem-Aranha, foram arrancados e ele está morto.</value>
   </string>
   <string key="GunnerEaten" >
     <value >Todos saem de casa e encontram duas pistolas caídas no chão... em seguida pernas... então dedos...  e flutuando no chafariz da praça, o corpo de {0}, despedaçado pelos Cavaleiros do Apocalipse. É, parece que o fator de cura do Deadpool não foi o bastante desta vez...</value>
@@ -239,7 +239,7 @@
     <value >Ah não! {0} estava bêbado(a)!  Agora você está bêbado(a) e não poderá atacar na próxima noite...</value>
   </string>
   <string key="GuardWolf" >
-    <value >Você tentou proteger um Cavaleiro!  Ele arranca suas asas e você está morto!</value>
+    <value >Você tentou proteger um Cavaleiro!  Ele arranca seus lançadores de teia e você está morto!</value>
   </string>
   <string key="GuardSaved" >
     <value >Você salvou a vida de {0}!</value>
@@ -251,7 +251,7 @@
     <value>Você tentou proteger {0}, mas ele(a) não estava em casa!</value>
   </string>
   <string key="GuardSavedYou" >
-    <value >O Arcanjo estava cuidando de você na noite passada e espantou os cavaleiros! Que bênção!</value>
+    <value >O Homem-Aranha estava cuidando de você na noite passada e espantou os cavaleiros! Que bênção!</value>
   </string>
   <string key="HarlotEaten">
     <value >A Viúva Negra escolheu um péssimo dia para tirar folga e ficar em casa. {0} foi dizimada pelos cavaleiros!</value>
@@ -357,7 +357,7 @@
     <value>Loki Laufeyson 🖕</value>
   </string>
   <string key="GuardianAngel">
-    <value>Arcanjo 👼</value>
+    <value>Homem-Aranha 👼</value>
   </string>
   <string key="Detective">
     <value>Jessica Jones 🕵</value>
@@ -423,7 +423,7 @@
     <value>O membro mais recente da Hydra corre para a casa de {0} para fazer o trabalho sujo e convertê-lo(a), mas encontra uma bagunça, muito sangue e pedacinhos... Seu alvo foi assassinado!</value>
   </string>
   <string key="GuardBlockedWolf">
-    <value>Os Cavaleiros se dirigem à casa de {0}, para o ataque, mas se deparam com um ser de asas angelicais . O Arcanjo sai em defesa do alvo e, após uma luta ao som das espadas celestiais os cavaleiros fogem da batalha diante da forma divina.</value>
+    <value>Os Cavaleiros se dirigem à casa de {0}, para o ataque, mas se deparam com o cabeça de teia que estava na espreita. O Homem-Aranha sai em defesa do alvo e, após uma luta ao som dos seus lançadores de teia e socos os cavaleiros fogem da batalha diante do aracnídeo.</value>
   </string>
   <!-- new strings May 9 2016-->
   <string key="CultUnableToConvert">
@@ -519,7 +519,7 @@
     <value>Pareceu uma noite normal, mas onde está {0}? Os heróis se reúnem na casa de {0}, e encontram um cigarro ainda aceso e um corpo com um furo de bala na testa, O Justiceiro puniu mais uma vítima... {1}</value>
   </string>
   <string key="GuardBlockedKiller">
-    <value>Você foi jogar um joguinho com {0}. Mas chegando lá o Arcanjo acabou com sua diversão! Não será hoje que você estourará seus miolos...</value>
+    <value>Você foi jogar um joguinho com {0}. Mas chegando lá o Homem-Aranha acabou com sua diversão! Não será hoje que você estourará seus miolos...</value>
   </string>
   <string key="CultConvertHunter">
     <value>A Hydra manda {0} para converter {1}. Chegando lá {0} é recebido com uma flecha no meio do peito! {0} tá morta...</value>
@@ -659,7 +659,7 @@
     <value>Você é o Loki Laufeyson! Por enquanto você é um herói, mas assim que todos os cavaleiros do apocalipse estiverem mortos, você se juntará a causa do Apocalipse se tornando um cavaleiro. Só Telepata poderá identificar você como um cavaleiro ou não.</value>
   </string>
   <string key="AboutGA">
-    <value>Você é o Arcanjo, e seu papel é proteger os heróis. Durante a noite, você pode escolher um(a) jogador(a) para proteger.  Porém, se você escolher um cavaleiro, pode acontecer o pior.</value>
+    <value>Você é o Homem-Aranha, e seu papel é proteger os heróis. Durante a noite, você pode escolher um(a) jogador(a) para proteger.  Porém, se você escolher um cavaleiro, pode acontecer o pior.</value>
   </string>
   <string key="AboutDetective">
     <value>Você é a Jessica Jones, e joga com os heróis. Durante o dia, você pode escolher uma pessoa para investigar e descobrir seu papel.  No entanto, ao fazer isso, você pode ser desmascarada pelos cavaleiros do apocalipse! (40% de chance)</value>
@@ -1073,7 +1073,7 @@
 <value>{0}, o Tony Stark, se esforçou para proteger a torre Stark porém suas defesas tecnológicas não foram o suficiente. O reator Ark foi arrancado violentamente de seu peito. O Justiceiro faz mais uma vítima, levando uma garrafa de um bom e velho Whisky para celebrar. </value>
   </string>
   <string key="GuardianAngelKilled">
-    <value>{0} é encontrado com grandes fendas onde antes houveram suas asas. {0}, o Arcanjo, está morto, e a noite agora é mais sombria.</value>
+    <value>{0} é encontrado sem seus lançadores de teia, com sinais de que foram arrancados a força. {0}, as teias nos prédios de Nova York não podem mais ser vistas, o Homem-Aranha está morto! </value>
   </string>
   <string key="GunnerKilled">
     <value>No silêncio da noite, são escutados os sons de uma briga na casa de {0}, os heróis encontram o Deadpool já sem vida! Seus sonhos são tormentosos depois de encontrá-lo decapitado, e a arma embaralhada em suas entranhas, mais uma vítima do Justiceiro.</value>
@@ -1106,7 +1106,7 @@
     <value>{0} tentou proteger o Justiceiro ontem a noite. A cidade acordou e encontrou apenas as asas ensanguentadas de {0} pregadas na parede de seu quartel general.</value>
   </string>
   <string key="GAGuardedWolf">
-   <value>{0} tentou proteger um Cavaleiro do Apocalipse ontem a noite. A cidade acordou e apenas encontrou o corpo de {0} mutilado com os restos do que um dia foram suas asas, parece que os dias de guarda do Arcanjo acabaram.</value>
+   <value>{0} tentou proteger um Cavaleiro do Apocalipse ontem a noite. A cidade acordou e apenas encontrou o corpo de {0} mutilado com os restos do seu velho uniforme rasgado, parece que os dias de guarda do Homem-Aranha chegaram ao fim! </value>
   </string>
   <!--DEC 26: 1vs1 finales-->
   <string key="HunterKillsWolfEnd">
