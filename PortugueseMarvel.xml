@@ -161,7 +161,7 @@
     <value >Você é o Nitro, o homem explosivo!  Se você for atacado pela maioria, você irá se vingar explodindo a tudo e a todos!</value>
   </string>
   <string key="RoleInfoWildChild" >
-    <value >Você é o Bruce Banner! Escolha alguém para você se 'afeiçoar' - se ele(a) morrer, seu ódio irá te consumir e você se tornará o incrível Hulk. Sabido da sua vulnerabilidade psicológica enquanto na pele do Golias Esmeralda, o Apocalipse o controlará e você será um de seus cavaleiros!.</value>
+    <value >Você é o Bruce Banner! Escolha alguém para você se 'afeiçoar' - se ele(a) morrer, seu ódio irá te consumir e você se tornará o incrível Hulk. Sabido da sua vulnerabilidade psicológica enquanto na pele do Golias Esmeralda, o Apocalipse irá controlar sua mente enfraquecida e você será um de seus cavaleiros!</value>
   </string>
   <string key="RoleInfoBeholder" >
     <value >Você é o Vigia, você saberá quem é o verdadeiro Telepata (e não a Mística). Use isso para ajudar seu time, os Heróis!</value>
@@ -338,7 +338,7 @@
     <value>O grande exemplo de vida de {0} acabou de morrer! Em seu ataque de fúria, ele(a) se tornou o incrível Hulk, o Apocalipse se aproveita do momento de vulnerabilidade do herói e o seduz, o Hulk agora é um Cavaleiro do Apocalipse </value>
   </string>
   <string key="WildChildTransform">
-    <value>{0} foi morto(a)! Num ataque de fúria, você se torna o incrível Hulk! Porém a voz do Apocalipse ecoa em sua mente, o convidando para se juntar a sua causa maligna, você aceita e agora é um de seus Cavaleiros! Seus novos companheiros são: {1}</value>
+    <value>{0} foi morto(a)! Num ataque de fúria, você se torna o incrível Hulk! Porém a voz do Apocalipse ecoa em sua mente, você está sob o controle do Apocalipse agora, se tornando um de seus Cavaleiros! Seus novos companheiros são: {1}</value>
   </string>
   <!-- Villager, Drunk, Harlot, Seer, Traitor, GuardianAngel, Detective, Wolf, Cursed, Gunner, Tanner, Fool, WildChild, Beholder, ApprenticeSeer, Cultist, CultistHunter-->
   <string key="Villager">
@@ -680,7 +680,7 @@
     <value>A Hydra vaga pela cidade recrutando novos membros para sua causa maligna, e você o Capitão América deve proteger a cidade!  Durante a noite você poderá escolher alguém para interrogar.  Se ele(a) for da Hydra, ele(a) morre.  Caso a Hydra tente te recrutar, o membro mais recente morre.</value>
   </string>
   <string key="AboutWC">
-    <value>Você é o Bruce Banner! Escolha alguém para ser o seu 'Exemplo' - se ele morrer, revoltado você irá fácilmente seduzido pela causa do Apocalipse se tornando um de seus Cavaleiros.</value>
+    <value>Você é o Bruce Banner! Escolha alguém para ser o seu 'Exemplo' - se ele morrer, revoltado você irá fácilmente controlado pelos poderes do Apocalipse se tornando um de seus Cavaleiros.</value>
   </string>
   <string key="AboutAppS">
     <value>Você é a Jean Grey, e joga com os heróis.  Caso o verdadeiro Telepata morra, você tomará sua posição de diretor do Instituto Xavier.</value>
