@@ -137,7 +137,7 @@
     <value>Você é o Tony Stark, o baladeiro beberrão! Você tem bafo de cachaça, mas joga com os Heróis. Se os Cavaleiros te atacarem, eles não resistirão à sua festinha e acabarão de ressaca até a próxima noite.</value>
   </string>
   <string key="RoleInfoGuardianAngel">
-    <value>"Com grandes poderes, vem grandes responsabilidades!" Você é o Homem-Aranha, responsável pela proteção da cidade. Durante a noite, você pode escolher um(a) jogador(a) para proteger usando seu escudo de teias. Porém, se você escolher um Cavaleiro do Apocalipse, pode acontecer o pior...</value>
+    <value>"Com grandes poderes, vem grandes responsabilidades!" Você é o Homem-Aranha, responsável pela proteção da cidade. Durante a noite, você pode escolher um(a) jogador(a) para proteger usando seu escudo de teias. Porém, se você escolher um Cavaleiro do Apocalipse, terá 50% de chance de não sair mais de lá com vida!</value>
   </string>
   <string key="RoleInfoGunner">
     <value>CHIMICHANGAS! Você é o Deadpool!  Você possui 2 balas para ajudar os heróis.  Durante o dia, você pode atirar em alguém. Todo mundo ouvirá os disparos e saberão que você é o mercenário tagarela.</value>
