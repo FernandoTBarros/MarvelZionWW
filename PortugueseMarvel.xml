@@ -251,7 +251,7 @@
     <value>Você tentou proteger {0}, mas ele(a) não estava em casa!</value>
   </string>
   <string key="GuardSavedYou" >
-    <value >O Homem-Aranha estava cuidando de você na noite passada e espantou os cavaleiros! Que bênção!</value>
+    <value >O Homem-Aranha pressentiu a chegada dos cavaleiros com o sensor-aranha e conseguiu te salvar essa noite! Ao sair ele disse: "Se alguém precisa de ajuda e você pode ajudar, tem a obrigação de fazer isso."</value>
   </string>
   <string key="HarlotEaten">
     <value >A Viúva Negra escolheu um péssimo dia para tirar folga e ficar em casa. {0} foi dizimada pelos cavaleiros!</value>
@@ -659,7 +659,7 @@
     <value>Você é o Loki Laufeyson! Por enquanto você é um herói, mas assim que todos os cavaleiros do apocalipse estiverem mortos, você se juntará a causa do Apocalipse se tornando um cavaleiro. Só Telepata poderá identificar você como um cavaleiro ou não.</value>
   </string>
   <string key="AboutGA">
-    <value>Você é o Homem-Aranha, e seu papel é proteger os heróis. Durante a noite, você pode escolher um(a) jogador(a) para proteger.  Porém, se você escolher um cavaleiro, pode acontecer o pior.</value>
+    <value>Você é o Homem-Aranha, e seu papel é proteger os heróis. Durante a noite, você pode escolher um(a) jogador(a) para proteger.  Porém, se você escolher um cavaleiro, há 50% de chance de ser morto.</value>
   </string>
   <string key="AboutDetective">
     <value>Você é a Jessica Jones, e joga com os heróis. Durante o dia, você pode escolher uma pessoa para investigar e descobrir seu papel.  No entanto, ao fazer isso, você pode ser desmascarada pelos cavaleiros do apocalipse! (40% de chance)</value>
