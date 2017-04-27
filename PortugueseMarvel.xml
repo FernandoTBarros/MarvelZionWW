@@ -1174,4 +1174,13 @@
   <string key="TimesKilledBy">
    <value>vezes eu fui injustamente morto por</value>
   </string>
+  <string key="JoinButton">
+    <value>Entrar</value>
+  </string>
+  <string key="FleeButton">
+    <value>Sair</value>
+  </string>
+  <string key="NotMember">
+    <value>Você não pode entrar nesse jogo porque você parece não estar em {0}.</value>
+  </string>
 </strings>
