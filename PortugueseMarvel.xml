@@ -1174,4 +1174,37 @@
   <string key="TimesKilledBy">
    <value>vezes eu fui injustamente morto por</value>
   </string>
+	
+	  <!--New Commands by GreyWolf since March 2017-->
+  <string key="JoinButton">
+    <value>Entrar</value>
+  </string>
+  <string key="NotMember">
+    <value>Você não pode entrar nessa batalha porque você não é membro do {0}.</value>
+  </string>
+  <string key="JoinByButton">
+    <value>Por favor, não use o comando join. Para entrar em uma batalha, use o botão abaixo.</value>
+  </string>
+  <string key="PlayerVoteCounts">
+    <value>{0} jogadores votaram, {1} total.</value>
+  </string>
+  <string key="EnableSecretLynchQ">
+    <value>Permitir ataque secreto?\nAtual: {0}</value>
+  </string>
+  <string key="EnableSecretLynchA">
+    <value>Ataque secreto definido como: {0}</value>
+  </string>
+  <string key="NoAutoJoin">
+    <value>{0}, lembre-se que você também terá que usar o botão para se juntar à batalha.</value>
+  </string>
+  <string key="GroupNotFound"> <!--This string might need rewording from some native speaker-->
+    <value>Não foi possível encontrar esse grupo. Por favor, use este comando no grupo que deseja parar de esperar ou adicione o link, o ID ou o nome de usuário do grupo após o comando.</value>
+  </string>
+  <string key="DeletedFromWaitList">
+    <value>Você foi excluído da lista de espera em {0}.</value>
+  </string>
+  <string key="HaveJoined">
+    <!-- {0} = list of people who have joined -->
+    <value>{0} entrou na batalha nos últimos 30 segundos.</value>
+  </string>
 </strings>
