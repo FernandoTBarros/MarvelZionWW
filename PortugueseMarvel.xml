@@ -737,7 +737,7 @@
     <value>Você precisa começar uma partida dentro de um grupo!</value>
   </string>
   <string key="PingInfo">
-    <value>Tempo de processamento da mensagem: {0}\nUso de CPU atual: {1}%\nMensagens por segundo: {2}</value>
+    <value>Tempo de processamento da mensagem: {0}\nMensagens por segundo: {1}</value>
   </string>
   <string key="WhatLang">
     <value>Que língua?\nAtual: {0}</value>
