@@ -1,12 +1,9 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <!--
-   Translated Originally by / Traduzido Originalmente por:
-       Lucas Montuano (@montuano) e Guto Cristino (@guto_xtino)
-       Dan (@vergonha), Danilo (@daniloosoo), Eric Romero (@ericromeero), Gabriel Borjoize (@Borjoize), jR750Ac (@jr750ac), Mocha (@MochaKH), Nical(@Nical), Pug (@Capitalista) e Saah (@ayylimao)
-		Team leaders: @ayylimao, @Borjoize
    Mod created in 15/11/2016 by / Mod criado em 15/11/2016 e mantido atualmente por:
-	   @Faberoso, @nildera, @fklopper, @SallyMustang, @Aphelion_bot e @Fernando0
-    Official Telegram Group / Grupo Oficial Telegram: @MarvelWerewolfBrasil
+	   @Faberoso, @nildera, @SallyMustang, @Marshall_Li, @Fernando0 e @machista
+    Official Telegram Group / Grupo Oficial Telegram: @BRMarvelWW
+    Official Support Group / Grupo oficial de Suporte: @WerewolfZionSuporte
     GitHub for issues or suggestions: https://github.com/FernandoTBarros/MarvelZionWW
 -->
 
@@ -737,7 +734,7 @@
     <value>Você precisa começar uma partida dentro de um grupo!</value>
   </string>
   <string key="PingInfo">
-    <value>Tempo de processamento da mensagem: {0}\nUso de CPU atual: {1}%\nMensagens por segundo: {2}</value>
+    <value>Tempo de processamento da mensagem: {0}\nMensagens por segundo: {1}</value>
   </string>
   <string key="WhatLang">
     <value>Que língua?\nAtual: {0}</value>
@@ -1206,5 +1203,29 @@
   <string key="HaveJoined">
     <!-- {0} = list of people who have joined -->
     <value>{0} entrou na batalha nos últimos 30 segundos.</value>
+  </string>
+  <string key="AllowCult">
+    <value>Permite Hydra</value>
+  </string>
+  <string key="AllowTanner">
+    <value>Permite Nitro</value>
+  </string>
+  <string key="AllowFool">
+    <value>Permite Mistica</value>
+  </string>
+  <string key="EnableSecretLynch">
+    <value>Habilita Linchamento Secreto</value>
+  </string>
+  <string key="RandomMode">
+    <value>Habilita Modo Aleatório</value>
+  </string>
+  <string key="AllowExtend">
+    <value>Permite estender tempo</value>
+  </string>
+  <string key="ShowRolesDeath">
+    <value>Mostrar papeis ao morrer</value>
+  </string>
+  <string key="AllowFlee">
+    <value>Permite fugir</value>
   </string>
 </strings>
