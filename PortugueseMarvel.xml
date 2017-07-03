@@ -1179,6 +1179,9 @@
   <string key="NotMember">
     <value>Você não pode entrar nessa batalha porque você não é membro do {0}.</value>
   </string>
+  <string key="FleeButton">
+    <value>Sair</value>
+  </string>
   <string key="JoinByButton">
     <value>Por favor, não use o comando join. Para entrar em uma batalha, use o botão abaixo.</value>
   </string>
