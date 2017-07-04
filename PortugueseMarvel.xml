@@ -914,7 +914,7 @@
 	<value>Você é o Noturno, o teleportador desastrado. Você tentará atacar alguém, porém poderá acidentalmente se teleportar para outro lugar na hora e acabar atacando a outra pessoa! (Você tem 50% de atacar a pessoa errada)</value>
   </string>
   <string key="RoleInfoSorcerer">
-    <value>Você é a Feiticeira Escarlate. À noite, você usará seu poder para encontrar os cavaleiros ou o Telepata. Você ganha somente se os cavaleiros ganharem. Ajude a despedaçar esses miseráveis heróis. </value>
+    <value>Você é a Feiticeira Escarlate. À noite, você usará seu poder para encontrar os cavaleiros e talvez o Telepata. Você ganha somente se os cavaleiros ganharem. Ajude a despedaçar esses miseráveis heróis. </value>
   </string>
   <string key="RoleInfoBlacksmith">
     <value>Você é o Magneto: o protetor da cidade. Com seus poderes de magnetismo você pode erguer uma barreira de aço ao redor da vila e impedir o avanço dos Cavaleiros do Apocalipse. Durante o dia, você poderá usar o seu poder, porém ficará esgotado e não poderá mais usá-lo. Fora isso, você é apenas um Herói. </value>
