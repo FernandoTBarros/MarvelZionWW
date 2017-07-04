@@ -914,7 +914,7 @@
 	<value>Você é o Noturno, o teleportador desastrado. Você tentará atacar alguém, porém poderá acidentalmente se teleportar para outro lugar na hora e acabar atacando a outra pessoa! (Você tem 50% de atacar a pessoa errada)</value>
   </string>
   <string key="RoleInfoSorcerer">
-    <value>Você é a Feiticeira Escarlate, e se junta às criaturas da noite, ao invés dos aldeões. À noite, você usará seu poder para encontrar os cavaleiros ou o Telepata. Você ganha somente se os cavaleiros ganharem. Desfrute de ajudar a exterminar esses miseráveis heróis. </value>
+    <value>Você é a Feiticeira Escarlate. À noite, você usará seu poder para encontrar os cavaleiros ou o Telepata. Você ganha somente se os cavaleiros ganharem. Ajude a despedaçar esses miseráveis heróis. </value>
   </string>
   <string key="RoleInfoBlacksmith">
     <value>Você é o Magneto: o protetor da cidade. Com seus poderes de magnetismo você pode erguer uma barreira de aço ao redor da vila e impedir o avanço dos Cavaleiros do Apocalipse. Durante o dia, você poderá usar o seu poder, porém ficará esgotado e não poderá mais usá-lo. Fora isso, você é apenas um Herói. </value>
@@ -946,6 +946,23 @@
   <string key="BlacksmithSpreadSilver" isgif="true">
     <value>Enquanto a cidade discute o caos recente, {0} ergue uma barreira de aço e metais ao redor da cidade. Por esta noite a cidade segura, mas os cavaleiros atacam a barreira que logo cederá.</value>
   </string>
+  
+  <string key="PsychicMage">
+    <value>Dr. Destino 🌀</value>
+</string>
+<string key="ConfuseLynching">
+    <value>Você quer usar seu poder para manipular a mente de todos hoje?</value>
+</string>
+<string key="PsychicMageConvertedToVillage">
+    <value>Seus planos de eliminar mais um cavaleiro funcionaram e você se uniu aos heróis para acabar com os atos vis do Apocalipse.</value>
+</string>
+<string key="PsychicMageConvertedToWolves">
+  <value>Seus planos de eliminar mais um herói funcionaram e você se uniu aos cavaleiros para aniquilar cada herói que cruzar o seu caminho.</value>
+</string>
+<string key="RoleInfoPsychicMage">
+    <value>Você é o Dr. Destino, o conquistador impiedoso. Você ainda não assumiu seu lado na guerra. Durante o dia você pode controlar a mente de outras pessoas e confundí-las, fazendo com que o mais fraco pague por seus erros. Se um herói perecer, você lutará ao lado do Apocalipse. Caso contrário você ajudará os heróis.</value>
+</string>
+  
   <string key="Mayor">
     <value>Odin 🎖</value>
   </string>
@@ -1152,6 +1169,9 @@
 	  <!--New InlineStats Strings 30/12-->
   <string key="AchievementsUnlocked">
    <value>Conquistas realizadas!</value>
+  </string>
+  <string key="AchievementsLocked">
+   <value>Conquistas bloqueadas!</value>
   </string>
   <string key="GamesWon">
    <value>Batalhas vencidas</value>
