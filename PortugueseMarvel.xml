@@ -125,55 +125,55 @@
     <value> e </value>
   </string>
   <string key="RoleInfoCursed">
-    <value>Você é o Motoqueiro Fantasma. Por enquanto você é um herói, mas se você for atacado pelos cavaleiros, você se tornará um Cavaleiro do Apocalipse também.</value>
+    <value>😾 Você é o Motoqueiro Fantasma. Por enquanto você é um herói, mas se você for atacado pelos cavaleiros, você se tornará um Cavaleiro do Apocalipse também.</value>
   </string>
   <string key="RoleInfoDetective">
-    <value>Você é a Jéssica Jones, e joga com os heróis. Durante o dia, você pode escolher uma pessoa para investigar e descobrir seu papel.  No entanto, ao fazer isso, você pode ser descoberto pelos cavaleiros!</value>
+    <value>🕵️ Você é a Jéssica Jones, e joga com os heróis. Durante o dia, você pode escolher uma pessoa para investigar e descobrir seu papel.  No entanto, ao fazer isso, você pode ser descoberto pelos cavaleiros!</value>
   </string>
   <string key="RoleInfoDrunk" isgif="true">
-    <value>Você é o Tony Stark, o baladeiro beberrão! Você tem bafo de cachaça, mas joga com os Heróis. Se os Cavaleiros te atacarem, eles não resistirão à sua festinha e acabarão de ressaca até a próxima noite.</value>
+    <value>🍻 Você é o Tony Stark, o baladeiro beberrão! Você tem bafo de cachaça, mas joga com os Heróis. Se os Cavaleiros te atacarem, eles não resistirão à sua festinha e acabarão de ressaca até a próxima noite.</value>
   </string>
   <string key="RoleInfoGuardianAngel">
-    <value>"Com grandes poderes, vem grandes responsabilidades!" Você é o Homem-Aranha, responsável pela proteção da cidade. Durante a noite, você pode escolher um(a) jogador(a) para proteger usando seu escudo de teias. Porém, se você escolher um Cavaleiro do Apocalipse, terá 50% de chance de não sair mais de lá com vida!</value>
+    <value>👼 "Com grandes poderes, vem grandes responsabilidades!" Você é o Homem-Aranha, responsável pela proteção da cidade. Durante a noite, você pode escolher um(a) jogador(a) para proteger usando seu escudo de teias. Porém, se você escolher um Cavaleiro do Apocalipse, terá 50% de chance de não sair mais de lá com vida!</value>
   </string>
   <string key="RoleInfoGunner">
-    <value>CHIMICHANGAS! Você é o Deadpool!  Você possui 2 balas para ajudar os heróis.  Durante o dia, você pode atirar em alguém. Todo mundo ouvirá os disparos e saberão que você é o mercenário tagarela.</value>
+    <value>🔫 CHIMICHANGAS! Você é o Deadpool!  Você possui 2 balas para ajudar os heróis.  Durante o dia, você pode atirar em alguém. Todo mundo ouvirá os disparos e saberão que você é o mercenário tagarela.</value>
   </string>
   <string key="RoleInfoHarlot">
-    <value>Você é a Viúva Negra, a espiã mais sedutora e persuasiva da cidade. Durante a noite, você poderá escolher alguém para seduzir, tentar arrancar informações e descobrir se ele(a) é um Agente da Hydra. Porém, se você visitar um Cavaleiro do Apocalipse ou alguém que está sendo atacado por um, você irá morrer. Se os cavaleiros tentarem atacar sua casa você irá sobreviver, já que você não estava lá.</value>
+    <value>💋 Você é a Viúva Negra, a espiã mais sedutora e persuasiva da cidade. Durante a noite, você poderá escolher alguém para seduzir, tentar arrancar informações e descobrir se ele(a) é um Agente da Hydra. Porém, se você visitar um Cavaleiro do Apocalipse ou alguém que está sendo atacado por um, você irá morrer. Se os cavaleiros tentarem atacar sua casa você irá sobreviver, já que você não estava lá.</value>
   </string>  
   <string key="RoleInfoTraitor">
-    <value>Você é o Loki Laufeyson! Por enquanto, você é um herói, mas assim que todos os cavaleiros do apocalipse estiverem mortos, você se juntará a causa do Apocalipse se tornando um cavaleiro. O Telepata poderá indentificar você como um cavaleiro ou não.</value>
+    <value>🖕 Você é o Loki Laufeyson! Por enquanto, você é um herói, mas assim que todos os cavaleiros do apocalipse estiverem mortos, você se juntará a causa do Apocalipse se tornando um cavaleiro. O Telepata poderá indentificar você como um cavaleiro ou não.</value>
   </string>
   <string key="RoleInfoWolf">
-    <value>VOCÊ É UM CAVALEIRO DO APOCALIPSE! Bom para você! Todas as noites você poderá escolher alguém para atacar.</value>
+    <value>🐺 VOCÊ É UM CAVALEIRO DO APOCALIPSE! Bom para você! Todas as noites você poderá escolher alguém para atacar.</value>
   </string>
    <string key="RoleInfoSeer">
-    <value>Você é o Telepata, seu papel é guiar os heróis na empreitada contra os Cavaleiros do Apocalipse. Durante a noite, você pode escolher alguém para 'ver', e ter seu papel revelado a você. Se revele com cautela, porque os Cavaleiros estão loucos pra dizimarem você!</value>
+    <value>👳 Você é o Telepata, seu papel é guiar os heróis na empreitada contra os Cavaleiros do Apocalipse. Durante a noite, você pode escolher alguém para 'ver', e ter seu papel revelado a você. Se revele com cautela, porque os Cavaleiros estão loucos pra dizimarem você!</value>
   </string>	  
   <string key="RoleInfoVillager" >
-    <value >Você é um Herói Veterano, sua força é fundamental para ajudar os heróis na batalha contra os Cavaleiros do Apocalipse! Sempre que houver uma batalha você será chamado para atacar junto!</value>
+    <value>👨 Você é um Herói Veterano, sua força é fundamental para ajudar os heróis na batalha contra os Cavaleiros do Apocalipse! Sempre que houver uma batalha você será chamado para atacar junto!</value>
   </string>
   <string key="RoleInfoTanner" >
-    <value >Você é o Nitro, o homem explosivo!  Se você for atacado pela maioria, você irá se vingar explodindo a tudo e a todos!</value>
+    <value>👺 Você é o Nitro, o homem explosivo!  Se você for atacado pela maioria, você irá se vingar explodindo a tudo e a todos!</value>
   </string>
   <string key="RoleInfoWildChild" >
-    <value >Você é o Bruce Banner! Escolha alguém para você se 'afeiçoar' - se ele(a) morrer, seu ódio irá te consumir e você se tornará o incrível Hulk. Sabido da sua vulnerabilidade psicológica enquanto na pele do Golias Esmeralda, o Apocalipse irá controlar sua mente enfraquecida e você será um de seus cavaleiros!</value>
+    <value>👶 Você é o Bruce Banner! Escolha alguém para você se 'afeiçoar' - se ele(a) morrer, seu ódio irá te consumir e você se tornará o incrível Hulk. Sabido da sua vulnerabilidade psicológica enquanto na pele do Golias Esmeralda, o Apocalipse irá controlar sua mente enfraquecida e você será um de seus cavaleiros!</value>
   </string>
   <string key="RoleInfoBeholder" >
-    <value >Você é o Vigia, você saberá quem é o verdadeiro Telepata (e não a Mística). Use isso para ajudar seu time, os Heróis!</value>
+    <value>👁 Você é o Vigia, você saberá quem é o verdadeiro Telepata (e não a Mística). Use isso para ajudar seu time, os Heróis!</value>
   </string>
   <string key="RoleInfoApprenticeSeer" >
-    <value >Você é a Jean Grey, e joga com os heróis.  Caso o verdadeiro Telepata morra, você tomará sua posição de diretor do Instituto Xavier.</value>
+    <value>🙇 Você é a Jean Grey, e joga com os heróis.  Caso o verdadeiro Telepata morra, você tomará sua posição de diretor do Instituto Xavier.</value>
   </string>
   <string key="RoleInfoCultist" >
-    <value >Você é um agente da Hydra.  Durante a noite, você poderá escolher alguém para recrutar à Hydra. Se todos os jogadores restantes ao final do jogo forem da Hydra, ela vence!</value>
+    <value>👤 Você é um agente da Hydra.  Durante a noite, você poderá escolher alguém para recrutar à Hydra. Se todos os jogadores restantes ao final do jogo forem da Hydra, ela vence!</value>
   </string>
   <string key="RoleInfoCultistHunter" >
-    <value >A Hydra vaga pela cidade recrutando novos membros para sua causa maligna, e você, o Capitão América, deve proteger a cidade!  Durante a noite você poderá escolher alguém para interrogar.  Se ele(a) for da Hydra, ele(a) morre.  Caso a Hydra tente te recrutar, o membro mais recente morre.</value>
+    <value>💂 A Hydra vaga pela cidade recrutando novos membros para sua causa maligna, e você, o Capitão América, deve proteger a cidade!  Durante a noite você poderá escolher alguém para interrogar.  Se ele(a) for da Hydra, ele(a) morre.  Caso a Hydra tente te recrutar, o membro mais recente morre.</value>
   </string>
   <string key="LynchTime" >
-    <value >
+    <value>
       Chegou a hora da batalha! Os heróis empunham suas armas e partem para o combate!
       Todo mundo tem agora {0} segundos para atacar...
     </value>
@@ -407,7 +407,7 @@
     <value>um agente da S.H.I.E.L.D 👷</value>
   </string>
   <string key="RoleInfoMason">
-    <value>Você é um Agente da S.H.I.E.L.D, e participa de uma sociedade secreta que tenta ajudar a Terra. Se houver outros agentes, você saberá quem são. Caso contrário, você será um Herói Veterano.</value>
+    <value>👷 Você é um Agente da S.H.I.E.L.D, e participa de uma sociedade secreta que tenta ajudar a Terra. Se houver outros agentes, você saberá quem são. Caso contrário, você será um Herói Veterano.</value>
   </string>
   <string key="MasonEaten">
     <value>À medida que todos se levantam durante a manhã, o corpo de {0} é localizado sem vida nos entornos da base da S.H.I.E.L.D.</value>
@@ -468,16 +468,16 @@
   </string>
   <!-- new strings june 10 2016 -->
   <string key="RoleInfoCupid">
-    <value>Você é a Encantor. A Encantadora de mentes, você pode escolher dois jogadores que serão enfeitiçados para toda eternidade com a ilusão de que são dois amantes. Se um deles morrer, o outro morrerá de tristeza. Depois de escolher os enfeitiçados, você pode voltar ao seu papel como Herói.</value>
+    <value>🏹 Você é a Encantor. A Encantadora de mentes, você pode escolher dois jogadores que serão enfeitiçados para toda eternidade com a ilusão de que são dois amantes. Se um deles morrer, o outro morrerá de tristeza. Depois de escolher os enfeitiçados, você pode voltar ao seu papel como Herói.</value>
   </string>
   <string key="RoleInfoDoppelganger">
-    <value>Você é a Mímica. Com suas habilidades de clonagem você poderá escolher um personagem no qual se transformar. Escolha de qual jogador você deseja copiar forma e poderes, após a morte do escolhido você tomará o seu lugar. Para vencer o jogo você deverá assumir o papel do jogador escolhido, e vencer juntamente com seu time, caso isto não ocorra você perderá.</value>
+    <value>🎭 Você é a Mímica. Com suas habilidades de clonagem você poderá escolher um personagem no qual se transformar. Escolha de qual jogador você deseja copiar forma e poderes, após a morte do escolhido você tomará o seu lugar. Para vencer o jogo você deverá assumir o papel do jogador escolhido, e vencer juntamente com seu time, caso isto não ocorra você perderá.</value>
   </string>
   <string key="RoleInfoHunter">
-    <value>Você é o Gavião Arqueiro! Seu arco e flechas combinados com seus olhos de gavião são mortais! Se você morrer, pode escolher alguém para matar. E se os cavaleiros te visitarem a noite, você não é alguém que aceitaria ir sozinho, mas no escuro, você não consegue escolher quem matar.</value>
+    <value>🎯 Você é o Gavião Arqueiro! Seu arco e flechas combinados com seus olhos de gavião são mortais! Se você morrer, pode escolher alguém para matar. E se os cavaleiros te visitarem a noite, você não é alguém que aceitaria ir sozinho, mas no escuro, você não consegue escolher quem matar.</value>
   </string>
   <string key="RoleInfoSerialKiller">
-    <value>"Eles riem da lei. Os ricos que a compram e a distorcem para seus caprichos. Os outros, que não tem nada a perder, que não se importam consigo mesmos ou com as outras pessoas. Todos aqueles que pensam que estão acima da lei, ou fora da lei, ou além dela. Eles sabem que a lei é boa, pois mantem as pessoas boas na linha. Eles todos riem. Eles riem da lei. Mas eles não riem de mim". Eu sou o Justiceiro, e vou punir a todos que cruzarem meu caminho...</value>
+    <value>🔪 "Eles riem da lei. Os ricos que a compram e a distorcem para seus caprichos. Os outros, que não tem nada a perder, que não se importam consigo mesmos ou com as outras pessoas. Todos aqueles que pensam que estão acima da lei, ou fora da lei, ou além dela. Eles sabem que a lei é boa, pois mantem as pessoas boas na linha. Eles todos riem. Eles riem da lei. Mas eles não riem de mim". Eu sou o Justiceiro, e vou punir a todos que cruzarem meu caminho...</value>
   </string>
   <string key="HunterLynchedChoice">
     <value>Os heróis se voltam contra você! É a sua última chance de usar seu arco e flechas!</value>
@@ -905,25 +905,25 @@
   
   <!-- Update 4.0-->
   <string key="RoleInfoMayor">
-    <value>Você é o Odin. Seu ataque é duas vezes mais forte que o dos outros, uma vez que você se revelar. Você faz parte do time dos heróis.</value>
+    <value>🎖 Você é o Odin. Seu ataque é duas vezes mais forte que o dos outros, uma vez que você se revelar. Você faz parte do time dos heróis.</value>
   </string>
   <string key="RoleInfoPrince">
-    <value>Imperius Rex! Você é Namor, o príncipe de Atlântida! Você está em uma missão secreta, disfarçado. Se tentarem atacá-lo, será revelada a sua autoridade, e você irá sobreviver. Assim, só poderá ser morto durante a noite, ou pelo Deadpool.</value>
+    <value>👑 Imperius Rex! Você é Namor, o príncipe de Atlântida! Você está em uma missão secreta, disfarçado. Se tentarem atacá-lo, será revelada a sua autoridade, e você irá sobreviver. Assim, só poderá ser morto durante a noite, ou pelo Deadpool.</value>
   </string>
   <string key="RoleInfoClumsyGuy">
-	<value>Você é o Noturno, o teleportador desastrado. Você tentará atacar alguém, porém poderá acidentalmente se teleportar para outro lugar na hora e acabar atacando a outra pessoa! (Você tem 50% de atacar a pessoa errada)</value>
+	<value>🤕 Você é o Noturno, o teleportador desastrado. Você tentará atacar alguém, porém poderá acidentalmente se teleportar para outro lugar na hora e acabar atacando a outra pessoa! (Você tem 50% de atacar a pessoa errada)</value>
   </string>
   <string key="RoleInfoSorcerer">
-    <value>Você é a Feiticeira Escarlate. À noite, você usará seu poder para encontrar os cavaleiros e talvez o Telepata. Você ganha somente se os cavaleiros ganharem. Ajude a despedaçar esses miseráveis heróis. </value>
+    <value>🔮 Você é a Feiticeira Escarlate. À noite, você usará seu poder para encontrar os cavaleiros e talvez o Telepata. Você ganha somente se os cavaleiros ganharem. Ajude a despedaçar esses miseráveis heróis. </value>
   </string>
   <string key="RoleInfoBlacksmith">
-    <value>Você é o Magneto: o protetor da cidade. Com seus poderes de magnetismo você pode erguer uma barreira de aço ao redor da vila e impedir o avanço dos Cavaleiros do Apocalipse. Durante o dia, você poderá usar o seu poder, porém ficará esgotado e não poderá mais usá-lo. Fora isso, você é apenas um Herói. </value>
+    <value>⚒ Você é o Magneto: o protetor da cidade. Com seus poderes de magnetismo você pode erguer uma barreira de aço ao redor da vila e impedir o avanço dos Cavaleiros do Apocalipse. Durante o dia, você poderá usar o seu poder, porém ficará esgotado e não poderá mais usá-lo. Fora isso, você é apenas um Herói. </value>
   </string>
   <string key="RoleInfoAlphaWolf">
-    <value>Você é o Apocalipse, a origem do caos espalhado na terra, o chefão. Enquanto vivo, a sua vítima tem 20% de chance de se tornar um de seus cavaleiros. </value>
+    <value>⚡️ Você é o Apocalipse, a origem do caos espalhado na terra, o chefão. Enquanto vivo, a sua vítima tem 20% de chance de se tornar um de seus cavaleiros. </value>
   </string>
   <string key="RoleInfoWolfCub">
-    <value>Você é o Gênesis. Adorado por todos os cavaleiros. Como os outros cavaleiros, você vai escolher um herói para atacar e matar todas as noites. Se acontecer de você ser morto, a ordem dos Cavaleiros do Apocalipse verá seu corpo no chão, e, ensandecida, vingará sua morte, atacando duas pessoas na noite seguinte. </value>
+    <value>🐶 Você é o Gênesis. Adorado por todos os cavaleiros. Como os outros cavaleiros, você vai escolher um herói para atacar e matar todas as noites. Se acontecer de você ser morto, a ordem dos Cavaleiros do Apocalipse verá seu corpo no chão, e, ensandecida, vingará sua morte, atacando duas pessoas na noite seguinte. </value>
   </string>
   <string key="PrinceLynched">
     <value>Os heróis estavam prontos para executar {0}, que grita, "Esperem! Eu sou Namor, príncipe de Atlântida! Como vocês ousam atacar o futuro rei?." Envergonhados, os heróis voltam para seus QG's para re-pensar seus atos.</value>
@@ -960,7 +960,7 @@
   <value>Seus planos de eliminar mais um herói funcionaram e você se uniu aos cavaleiros para aniquilar cada herói que cruzar o seu caminho.</value>
 </string>
 <string key="RoleInfoPsychicMage">
-    <value>Você é o Dr. Destino, o conquistador impiedoso. Você ainda não assumiu seu lado na guerra. Durante o dia você pode controlar a mente de outras pessoas e confundí-las, fazendo com que o mais fraco pague por seus erros. Se um herói perecer, você lutará ao lado do Apocalipse. Caso contrário você ajudará os heróis.</value>
+    <value>🌀 Você é o Dr. Destino, o conquistador impiedoso. Você ainda não assumiu seu lado na guerra. Durante o dia você pode controlar a mente de outras pessoas e confundí-las, fazendo com que o mais fraco pague por seus erros. Se um herói perecer, você lutará ao lado do Apocalipse. Caso contrário você ajudará os heróis.</value>
 </string>
   
   <string key="Mayor">
