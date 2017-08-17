@@ -339,7 +339,7 @@
   </string>
   <!-- Villager, Drunk, Harlot, Seer, Traitor, GuardianAngel, Detective, Wolf, Cursed, Gunner, Tanner, Fool, WildChild, Beholder, ApprenticeSeer, Cultist, CultistHunter-->
   <string key="Villager">
-    <value>Héroi 👱</value>
+    <value>Herói 👱</value>
   </string>
   <string key="Drunk">
     <value>Tony Stark 🍻</value>
@@ -690,7 +690,7 @@
   </string>
   <string key="AboutDG">
     <value>
-     Você é a Vampira! Com sua Habilidade de absorção de memórias vocÊ pode copiar os poderes de qualquer um dos johadores apenas ao tocá-los. Escolha de qual personagem você deseja copiar os poderes. Você só poderá usá-los após a morte do personagem escolhido.</value>
+🎭 Você é a Mímica. Com suas habilidades de clonagem você poderá escolher um personagem no qual se transformar. Escolha de qual jogador você deseja copiar forma e poderes, após a morte do escolhido você tomará o seu lugar. Para vencer o jogo você deverá assumir o papel do jogador escolhido, e vencer juntamente com seu time, caso isto não ocorra você perderá.</value>
   </string>
   <string key="AboutCupid">
     <value>
