@@ -307,7 +307,7 @@
     <value>{0} foi à sua casa na noite passada, preparado(a) para te recrutar... Mas você atento nota o símbolo da serpente de três cabeças e mata o membro da Hydra! {1} restante(s)!</value>
   </string>
   <string key="CultConvertYou">
-    <value>Você foi recrutado(a) e agora é um membro da Hydra.  Durante a noite, você poderá tentar recrutar outros hérois.</value>
+    <value>Você foi recrutado(a) e agora é um membro da Hydra.  Durante a noite, você poderá tentar recrutar outros heróis.</value>
   </string>
   <string key="CultTeam">
     <value>Membros da Hydra: {0}</value>
