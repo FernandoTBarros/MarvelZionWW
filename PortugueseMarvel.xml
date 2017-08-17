@@ -39,7 +39,7 @@
     <value>{0} está pronto para a batalha. {1} jogadores, {2} mínimo, {3} máximo</value>
   </string>
   <string key="PMTheBot">
-    <value>\n{0} por favor, me envie uma mensagem no privado ({1}) e clique start, pois você ainda não está registrado.  Para que eu possa te enviar mensagens privadas, você deve me enviar uma mensagem primeiro.</value>
+    <value>\n{0} por favor, me envie uma mensagem no privado ({1}) e clique start, pois você ainda não está registrado. Para que eu possa te enviar mensagens privadas, você deve me enviar uma mensagem primeiro.</value>
   </string>
   <string key="DeadFlee">
     <value>Você não pode fugir! VOCÊ ESTÁ MORTO(A)! Volte para sua cova.... Seu zumbi</value>
@@ -68,7 +68,7 @@
     <value>{0} deu um soco em {1}</value>
   </string>
   <string key="IdleKill">
-    <value>{0} se deu bem escondendo-se 2 batalhas seguidas, mas na terceira batalha, antes que o Tribunal Vivo o julgasse,  os inimigos o encontraram e mostraram o que se faz com covardes! {0} está morto, {1}</value>
+    <value>{0} se deu bem escondendo-se 2 batalhas seguidas, mas na terceira batalha, antes que o Tribunal Vivo o julgasse, os inimigos o encontraram e mostraram o que se faz com covardes! {0} está morto, {1}</value>
   </string>
   <string key="TraitorTurnWolf">
     <value>Loki!!! Agora você é um Cavaleiro do Apocalipse...</value>
@@ -119,7 +119,7 @@
     <value>Quem você gostaria de recrutar para a Hydra?</value>
   </string>
   <string key="DiscussWith"><!--Leave the leading spaces here please-->
-    <value>  Lembre-se de discutir com {0}</value>
+    <value>Lembre-se de discutir com {0}</value>
   </string>
   <string key="And"> <!--this is paired with "DiscussWith".  again, leave the spaces!-->
     <value> e </value>
@@ -128,7 +128,7 @@
     <value>😾 Você é o Motoqueiro Fantasma. Por enquanto você é um herói, mas se você for atacado pelos cavaleiros, você se tornará um Cavaleiro do Apocalipse também.</value>
   </string>
   <string key="RoleInfoDetective">
-    <value>🕵️ Você é a Jéssica Jones, e joga com os heróis. Durante o dia, você pode escolher uma pessoa para investigar e descobrir seu papel.  No entanto, ao fazer isso, você pode ser descoberto pelos cavaleiros!</value>
+    <value>🕵️ Você é a Jéssica Jones, e joga com os heróis. Durante o dia, você pode escolher uma pessoa para investigar e descobrir seu papel. No entanto, ao fazer isso, você pode ser descoberto pelos cavaleiros!</value>
   </string>
   <string key="RoleInfoDrunk" isgif="true">
     <value>🍻 Você é o Tony Stark, o baladeiro beberrão! Você tem bafo de cachaça, mas joga com os Heróis. Se os Cavaleiros te atacarem, eles não resistirão à sua festinha e acabarão de ressaca até a próxima noite.</value>
@@ -137,7 +137,7 @@
     <value>👼 "Com grandes poderes, vem grandes responsabilidades!" Você é o Homem-Aranha, responsável pela proteção da cidade. Durante a noite, você pode escolher um(a) jogador(a) para proteger usando seu escudo de teias. Porém, se você escolher um Cavaleiro do Apocalipse, terá 50% de chance de não sair mais de lá com vida!</value>
   </string>
   <string key="RoleInfoGunner">
-    <value>🔫 CHIMICHANGAS! Você é o Deadpool!  Você possui 2 balas para ajudar os heróis.  Durante o dia, você pode atirar em alguém. Todo mundo ouvirá os disparos e saberão que você é o mercenário tagarela.</value>
+    <value>🔫 CHIMICHANGAS! Você é o Deadpool! Você possui 2 balas para ajudar os heróis. Durante o dia, você pode atirar em alguém. Todo mundo ouvirá os disparos e saberão que você é o mercenário tagarela.</value>
   </string>
   <string key="RoleInfoHarlot">
     <value>💋 Você é a Viúva Negra, a espiã mais sedutora e persuasiva da cidade. Durante a noite, você poderá escolher alguém para seduzir, tentar arrancar informações e descobrir se ele(a) é um Agente da Hydra. Porém, se você visitar um Cavaleiro do Apocalipse ou alguém que está sendo atacado por um, você irá morrer. Se os cavaleiros tentarem atacar sua casa você irá sobreviver, já que você não estava lá.</value>
@@ -155,7 +155,7 @@
     <value>👨 Você é um Herói Veterano, sua força é fundamental para ajudar os heróis na batalha contra os Cavaleiros do Apocalipse! Sempre que houver uma batalha você será chamado para atacar junto!</value>
   </string>
   <string key="RoleInfoTanner" >
-    <value>👺 Você é o Nitro, o homem explosivo!  Se você for atacado pela maioria, você irá se vingar explodindo a tudo e a todos!</value>
+    <value>👺 Você é o Nitro, o homem explosivo! Se você for atacado pela maioria, você irá se vingar explodindo a tudo e a todos!</value>
   </string>
   <string key="RoleInfoWildChild" >
     <value>👶 Você é o Bruce Banner! Escolha alguém para você se 'afeiçoar' - se ele(a) morrer, seu ódio irá te consumir e você se tornará o incrível Hulk. Sabido da sua vulnerabilidade psicológica enquanto na pele do Golias Esmeralda, o Apocalipse irá controlar sua mente enfraquecida e você será um de seus cavaleiros!</value>
@@ -164,18 +164,17 @@
     <value>👁 Você é o Vigia, você saberá quem é o verdadeiro Telepata (e não a Mística). Use isso para ajudar seu time, os Heróis!</value>
   </string>
   <string key="RoleInfoApprenticeSeer" >
-    <value>🙇 Você é a Jean Grey, e joga com os heróis.  Caso o verdadeiro Telepata morra, você tomará sua posição de diretor do Instituto Xavier.</value>
+    <value>🙇 Você é a Jean Grey, e joga com os heróis. Caso o verdadeiro Telepata morra, você tomará sua posição de diretor do Instituto Xavier.</value>
   </string>
   <string key="RoleInfoCultist" >
-    <value>👤 Você é um agente da Hydra.  Durante a noite, você poderá escolher alguém para recrutar à Hydra. Se todos os jogadores restantes ao final do jogo forem da Hydra, ela vence!</value>
+    <value>👤 Você é um agente da Hydra. Durante a noite, você poderá escolher alguém para recrutar à Hydra. Se todos os jogadores restantes ao final do jogo forem da Hydra, ela vence!</value>
   </string>
   <string key="RoleInfoCultistHunter" >
-    <value>💂 A Hydra vaga pela cidade recrutando novos membros para sua causa maligna, e você, o Capitão América, deve proteger a cidade!  Durante a noite você poderá escolher alguém para interrogar.  Se ele(a) for da Hydra, ele(a) morre.  Caso a Hydra tente te recrutar, o membro mais recente morre.</value>
+    <value>💂 A Hydra vaga pela cidade recrutando novos membros para sua causa maligna, e você, o Capitão América, deve proteger a cidade! Durante a noite você poderá escolher alguém para interrogar. Se ele(a) for da Hydra, ele(a) morre. Caso a Hydra tente te recrutar, o membro mais recente morre.</value>
   </string>
   <string key="LynchTime" >
     <value>
-      Chegou a hora da batalha! Os heróis empunham suas armas e partem para o combate!
-      Todo mundo tem agora {0} segundos para atacar...
+      Chegou a hora da batalha! Os heróis se preparam e partem para o combate!\nTodo mundo tem agora {0} segundos para atacar...
     </value>
   </string>
   <string key="DayTime" >
@@ -391,13 +390,13 @@
   </string>
   <!-- These are for the player list -->
   <string key="RanAway">
-    <value>Fugiu</value>
+    <value>🏃</value>
   </string>
   <string key="Dead">
-    <value>💀 MORTO(A)</value>
+    <value>💀</value>
   </string>
   <string key="Alive">
-    <value>🙂 Vivo(a)</value>
+    <value>🙂</value>
   </string>
    <string key="PlayersAlive">
     <value>Jogadores vivos</value>
@@ -510,7 +509,7 @@
     <value>O cavaleiro tentou atacar a pessoa errada a noite passada! O Gavião Arqueiro sabe se proteger muito bem e deixou um presentinho pra os heróis, o corpo de {0}!</value>
   </string>
   <string key="SerialKillerKilledWolf">
-    <value>Os cavaleiros do apocalipse escolheram mal o seu alvo! {0} é encontrado com ferimentos de bala, quase dá pra sentir pena do cavaleiro! O Justiceiro ganhou uma nova cabeça para colocar na sua sala de troféus.</value>
+    <value>Os cavaleiros do apocalipse escolheram mal o seu alvo! {0} é encontrado com ferimentos de bala! O Justiceiro sempre alerta já estava à sua espera.</value>
   </string>
   <string key="DefaultKilled">
     <value>Pareceu uma noite normal, mas onde está {0}? Os heróis se reúnem na casa de {0}, e encontram um cigarro ainda aceso e um corpo com um furo de bala na testa, O Justiceiro puniu mais uma vítima... {1}</value>
@@ -522,8 +521,8 @@
     <value>A Hydra manda {0} para converter {1}. Chegando lá {0} é recebido com uma flecha no meio do peito! {0} tá morta...</value>
   </string>
   <string key="CultConvertSerialKiller">
-    <value>A Hydra manda {0} para recrutar {1}. Chegando lá {0} descobre que era melhor ter ficado na base. Seu corpo é encontrado aberto na rua, mas com os orgãos revirados. {0} está morto(a)...</value>
-    <value>{0} arromba a porta da casa de {1}. Assim que entra, ouve uma voz sinistra "Você será punido!". {1} aparece de repente com uma pistola que começa a atirar em {0} decorando sua sala com sangue. {0} está morto(a)</value>
+    <value>A Hydra manda {0} para recrutar {1}. Chegando lá {0} descobre que era melhor ter ficado na base. {0} está morto(a)...</value>
+    <value>{0} arromba a porta da casa de {1}. Assim que entra ele vê apenas o vulto de uma caveira e sons de disparos. {0} está morto(a)</value>
   </string>
   <string key="GuardKiller">
     <value>Você tentou proteger a pessoa errada. O Justiceiro te convida para brincar com ele, um tipo de brincadeira que você com certeza não gosta. O tipo de brincadeira que você morre no final...</value>
@@ -689,8 +688,7 @@
     <value>Você é um agente da S.H.I.E.L.D, e participa de uma sociedade secreta que faz parte. Se houver outros agentes, você saberá quem são. Caso contrário, você será um Herói Veterano.</value>
   </string>
   <string key="AboutDG">
-    <value>
-🎭 Você é a Mímica. Com suas habilidades de clonagem você poderá escolher um personagem no qual se transformar. Escolha de qual jogador você deseja copiar forma e poderes, após a morte do escolhido você tomará o seu lugar. Para vencer o jogo você deverá assumir o papel do jogador escolhido, e vencer juntamente com seu time, caso isto não ocorra você perderá.</value>
+    <value>🎭 Você é a Mímica. Com suas habilidades de clonagem você poderá escolher um personagem no qual se transformar. Escolha de qual jogador você deseja copiar forma e poderes, após a morte do escolhido você tomará o seu lugar. Para vencer o jogo você deverá assumir o papel do jogador escolhido, e vencer juntamente com seu time, caso isto não ocorra você perderá.</value>
   </string>
   <string key="AboutCupid">
     <value>
@@ -946,7 +944,6 @@
   <string key="BlacksmithSpreadSilver" isgif="true">
     <value>Enquanto a cidade discute o caos recente, {0} ergue uma barreira de aço e metais ao redor da cidade. Por esta noite a cidade segura, mas os cavaleiros atacam a barreira que logo cederá.</value>
   </string>
-  
   <string key="PsychicMage">
     <value>Dr. Destino 🌀</value>
 </string>
@@ -961,6 +958,9 @@
 </string>
 <string key="RoleInfoPsychicMage">
     <value>🌀 Você é o Dr. Destino, o conquistador impiedoso. Você ainda não assumiu seu lado na guerra. Durante o dia você pode controlar a mente de outras pessoas e confundí-las, fazendo com que o mais fraco pague por seus erros. Se um herói perecer, você lutará ao lado do Apocalipse. Caso contrário você ajudará os heróis.</value>
+</string>
+<string key="LynchConfusion">
+    <value>Em meio a disparos e investidas, o corpo de {0} é arremessado ao chão, onde permanece inerte. Todos recuperam a consciência e ainda levemente atordoados se dão conta do que acabaram de fazer; o Dr. Destino manipulou a todos para eliminar mais um que ousou subestimar seu poder. {1}</value>
 </string>
   
   <string key="Mayor">
