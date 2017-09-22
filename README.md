@@ -1,7 +1,7 @@
 # MarvelZionWW
 Repositório para criação e manutenção da variante Marvel do Português no Werewolf Bot do Telegram
 
-Canal Oficial do Marvel: [@MarvelWerewolfBrasil](https://telegram.me/marvelwerewolfbrasil)
+Canal Oficial do Marvel: [@BrMarvelWW](https://telegram.me/brmarvelww)
 
 
 
